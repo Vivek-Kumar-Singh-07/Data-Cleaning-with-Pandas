@@ -1,0 +1,1001 @@
+order_id,customer_name,product,category,quantity,price,total_amount,date,region,status
+1,Alice Davis ,Mouse,Electronics,1,1488.95,0,05-09-2024,North,Active
+2,Patel Davis  ,Monitor,electronics,1.0,242.74,1260.16,07/21/2024,North,completed
+3,Bob Johnson ,Monitor?,Electronics,1,1482.75,nan,10-16-2024,South,
+4,Patel Brown  ,Laptop,hardware,2,1466.15,2958.81,01/07/2024,East ,Completed
+5,Patel Davis,iPhone 14,ELECTRONICS,nan,1192.79,2466.13,09-27-2024,North,Active
+6,Alice Brown ,Keyboard,ELECTRONICS,1,,,08-27-2024,EAST,N/A
+7,Sarah Davis  ,iPhone 14,Electronics,2,870.93,114.40,05/23/2024,EAST,
+8,Mary Wilson?,iPhone 14,Hardware ,1,1300.49,0,09-18-2024,West,Active
+9,Sarah Johnson ,Laptop,electronics,,441.26,378.73,2024-04-03,South,Completed
+10,Alice Davis***,Laptop,ELECTRONICS,1,706.85,nan,2024/06/19,west,completed
+11,John Wilson,Laptop,hardware,2,932.89,4181.57,02-19-2024,West,
+12,Mary Davis ,Laptop,hardware,3,622.67,1500.30,02/01/2024,East ,Active
+13,Alice Smith ,Monitor,Hardware ,3,646.95,0,2024-01-08,North,Active
+14,John Brown ,Laptop,ELECTRONICS,2,502.12,674.37,2024-04-04,West,N/A
+15,Patel Johnson ,Monitor,Electronics,1,850.71,2131.58,08-17-2024,west,N/A
+16,Alice Wilson,Monitor,hardware,1,1277.36,2200.98,06-25-2024,west,
+17,Sarah Brown,Laptop,Hardware ,1,310.28,nan,2024-11-24,EAST,Active
+18,Alice Wilson,Mouse,ELECTRONICS,1,1402.31,1644.64,07/26/2024,East ,
+19,John Brown,Keyboard,ELECTRONICS,2,1036.74,2878.74,03-21-2024,West,Active
+20,Bob Brown,iPhone 14,ELECTRONICS,1,1236.68,115.34,03-03-2024,South,N/A
+21,Bob Smith,Monitor,ELECTRONICS,1,838.72,0,04-14-2024,West,Completed
+22,Mary Wilson  ,Keyboard,ELECTRONICS,2,1171.48,806.85,02/21/2024,EAST,Pending
+23,John Wilson ,Mouse,hardware,-1,34.14,2988.75,2024/05/24,west,Pending
+24,Sarah Johnson ,iPhone 14,Hardware ,2,1229.39,1434.11,2024-06-14,East ,Active
+25,Mary Smith ,iPhone 14,ELECTRONICS,1.00,69.81,3677.77,2024/07/26,East ,N/A
+26,Mary Davis  ,Monitor,electronics,,1335.97,0,11/29/2024,South,completed
+27,Mary Wilson,Laptop,electronics,-1,1488.02,nan,2023/12/30,East ,completed
+28,Alice Wilson ,Mouse,Hardware ,1,448.16,0,2024-11-19,EAST,Pending
+29,Alice Davis ,Monitor,Electronics,1,323.37,2662.05,02-27-2024,EAST,Completed
+30,Patel Smith ,Mouse,Electronics,2,1150.39,,06-21-2024,EAST,Pending
+31,Alice Johnson ,Laptop,Electronics,2,387.01,0,01-01-2024,East ,Active
+32,Alice Johnson ,Laptop,electronics,2,1299.69,0,12-09-2023,East ,Completed
+33,Sarah Johnson,Monitor,Electronics,1,163.24,nan,2024/03/01,EAST,completed
+34,Alice Davis ,Laptop,hardware,1,197.67,450.05,2024-06-24,East ,N/A
+35,Mary Johnson ,Keyboard,ELECTRONICS,-1,1468.94,nan,07/11/2024,East ,N/A
+36,Alice Johnson ,iPhone 14,electronics,1,1014.02,nan,10/03/2024,west,Active
+37,Mary Wilson ,Monitor,Hardware ,2,1271.86,2623.13,03-19-2024,West,Pending
+38,Sarah Wilson ,Mouse,Hardware ,3,493.25,nan,2024-07-20,North,Active
+39,John Davis  ,Keyboard,ELECTRONICS,2,,nan,2024-03-08,East ,N/A
+40,Bob Johnson ,Monitor,electronics,1,895.42,,10-14-2024,North,completed
+41,Bob Johnson  ,Laptop,Electronics,1,908.69,973.65,06/02/2024,North,N/A
+42,John Wilson  ,Laptop,Electronics,2,1026.97,0,12-28-2023,west,Completed
+43,Alice Wilson ,Laptop,hardware,3,867.29,252.14,12/13/2023,East ,
+44,Bob Smith ,Laptop,hardware,0,649.30,,11-07-2024,EAST,N/A
+45,Bob Davis ,Mouse,Electronics,1,421.12,2557.71,03-21-2024,North,N/A
+46,John Smith,Keyboard,Hardware ,1,1155.19,,11-04-2024,East ,
+47,John Smith,iPhone 14,Hardware ,0,347.15,0,06-03-2024,South,Completed
+48,Alice Brown,Mouse,hardware,3,1041.607916170077,0,2024-10-23,EAST,Pending
+49,Patel Smith  ,Mouse,ELECTRONICS,3,357.67,448.75,2024/06/13,South,N/A
+50,Patel Brown  ,iPhone 14,Electronics,1,941.74,45.68,04/13/2024,South,Active
+51,John Brown,iPhone 14,hardware,2,1123.15,39.76,08-05-2024,North,N/A
+52,Bob Johnson ,Laptop,hardware,3,335.88,2652.11,01-22-2024,South,Active
+53,Mary Smith  ,Mouse,Electronics,2,99.32,1377.08,07-09-2024,west,Completed
+54,Alice Smith,Monitor,Electronics,2,205.15,2345.53,2024-01-12,west,N/A
+55,Alice Johnson ,iPhone 14,Hardware ,1,912.94,42.24,01-27-2024,North,Completed
+56,John Davis ,iPhone 14,ELECTRONICS,2.00,1275.68,nan,2024/01/28,East ,Completed
+57,Patel Wilson,Keyboard,ELECTRONICS,1,77.04526364078231,nan,02-29-2024,West,Pending
+58,Sarah Brown,Monitor,Electronics,2.00,1103.89,669.61,10/04/2024,East ,N/A
+59,Patel Smith  ,Monitor,electronics,-1,518.56,1101.01,2024-05-09,East ,Active
+60,Patel Davis  ,iPhone 14,hardware,1.0,723.01,1071.59,2024/05/09,East ,Active
+61,Sarah Brown ,Laptop,hardware,3,1394.00,2443.16,2023-12-09,East ,N/A
+62,John Davis,Keyboard,Electronics,1,504.64,0,03-13-2024,EAST,
+63,Mary Brown,Monitor,electronics,2,703.35,324.04,12-08-2023,West,Pending
+64,John Johnson  ,iPhone 14,Hardware ,nan,30.39,0,2024-02-03,EAST,Pending
+65,Mary Wilson  ,Monitor,Electronics,1,131.58,0,2024-09-23,South,Pending
+66,Bob Brown  ,Keyboard,Electronics,1.00,395.30,2493.22,11-26-2024,East ,Active
+67,John Wilson ,Keyboard,hardware,2,51.50,1887.86,2024-04-19,west,Completed
+68,Bob Wilson  ,Mouse,Electronics,1,950.75,789.74,04-03-2024,North,
+69,Sarah Davis,iPhone 14,Electronics,3,645.33,1301.85,2024-10-12,North,Pending
+70,Bob Brown ,Keyboard,Electronics,0,826.74,0,2024-05-21,EAST,Active
+71,Bob Wilson,Mouse,hardware,2,270.22,nan,2024/01/06,EAST,Active
+72,Bob Brown,Mouse,Hardware ,1,450.94,nan,03-15-2024,west,Completed
+73,Patel Wilson  ,Monitor,Hardware ,2,999.10,628.68,11-14-2024,East ,N/A
+74,Mary Johnson  ,Monitor,Electronics,3,1448.30,943.94,2023-12-03,West,N/A
+75,Bob Smith  ,Mouse,hardware,1,85.12,1633.58,2024-02-07,South,Pending
+76,Bob Wilson  ?,Monitor,Hardware ,2,1336.67,2987.02,2024-10-14,North,Pending
+77,Alice Wilson,Keyboard,Hardware ,2,869.55,725.47,10-20-2024,South,
+78,Alice Wilson ,Laptop,Hardware ,2,850.24,0,2024-07-24,West,Completed
+79,Sarah Brown,Keyboard,hardware,1,755.42,nan,2024-04-02,EAST,Pending
+80,Mary Wilson  ,Mouse,hardware,3,113.40,1375.97,02/25/2024,North,Completed
+81,John Smith  ,Mouse,Electronics,1,143.92,,2024-01-05,South,Active
+82,John Smith,Keyboard,ELECTRONICS,1,905.36,1364.37,2024/06/04,EAST,Pending
+83,Patel Smith,Monitor,Hardware ,3,518.03,2161.72,05-14-2024,West,Active
+84,Alice Davis  ,Monitor,ELECTRONICS,3,1376.73,883.49,11/11/2024,South,completed
+85,John Brown,Mouse,hardware,1,615.82,,02-11-2024,East ,Completed
+86,Sarah Brown  ,iPhone 14,hardware,1,223.49,593.10,2024/11/23,EAST,completed
+87,John Davis ,Monitor,hardware,1,1074.93,0,2024/01/06,West,Pending
+88,John Brown,Keyboard,ELECTRONICS,1,447.10,1128.81,2024-08-08,South,Active
+89,Mary Wilson,Monitor,hardware,,792.95,4119.34,11-15-2024,East ,Pending
+90,Patel Smith ,Keyboard,Electronics,1,1049.77,1019.51,2024/11/21,East ,completed
+91,Alice Smith ,Mouse,hardware,2,1351.39,nan,01/21/2024,West,Pending
+92,Sarah Smith,Monitor,electronics,3,1190.36,1608.50,2024/07/04,west,
+93,Mary Wilson,Keyboard,ELECTRONICS,2,1017.78,,2024/02/21,North,N/A
+94,Alice Johnson  ,Mouse,electronics,2,1022.65,0,04-25-2024,West,completed
+95,Patel Smith ,iPhone 14,hardware,1,1419.43,,04/08/2024,East ,Pending
+96,Bob Smith  ,Keyboard,Electronics,-1,450.78,1139.95,02-16-2024,East ,Active
+97,John Brown  ,iPhone 14,Hardware ,3,11.66,0,2023/12/27,West,Pending
+98,John Johnson,iPhone 14,hardware,3,415.21,938.20,03/21/2024,west,Active
+99,Mary Wilson,Laptop,Electronics,3,334.66,nan,12/31/2023,North,N/A
+100,Sarah Davis ,Monitor,ELECTRONICS,0,996.13,2338.40,2024/07/26,South,Pending
+101,John Smith ,Keyboard,electronics,2,954.23,677.00,09/04/2024,West,N/A
+102,Patel Johnson ,iPhone 14,electronics,1,894.26,510.41,12/16/2023,North,completed
+103,Bob Wilson ,Laptop,electronics,2,34.20,0,2024/10/22,North,Active
+104,Mary Wilson,Mouse,ELECTRONICS,3.0,1095.88,1390.61,07-12-2024,EAST,
+105,Patel Brown  ,Keyboard,Electronics,3,492.06,nan,2024/04/08,East ,completed
+106,John Davis  ,iPhone 14,ELECTRONICS,2,1000.93,634.20,08-21-2024,South,Active
+107,Alice Johnson  ,Monitor,electronics,1,839.30,0,2024-11-24,West,N/A
+108,Sarah Brown  ,Laptop?,hardware,1.00,520.67,270.95,01-12-2024,East ,Completed
+109,John Smith,iPhone 14,Hardware ,0,210.52,4431.05,2023-12-27,EAST,Pending
+110,Alice Brown ,Monitor,ELECTRONICS,2,150.68,2005.89,06/18/2024,EAST,N/A
+111,Sarah Davis  ,iPhone 14,ELECTRONICS,2,1248.96,nan,2024-07-25,East ,Active
+112,Patel Wilson ,Keyboard,Electronics,1,1378.41,2648.563522142142,2024-07-05,west,Active
+113,Alice Brown,Keyboard,Electronics,1,978.18,346.26,2023/12/09,North,Active
+114,Alice Brown  ,Keyboard,ELECTRONICS,3,164.12,4347.29,2024/09/08,West,Active
+115,Mary Brown ,Laptop,electronics,2,609.02,270.43,06/03/2024,West,Pending
+116,Patel Wilson  ,Keyboard,Hardware ,3,1096.12,0,2024-05-31,West,completed
+117,Alice Smith ,Monitor,Electronics,2,1171.93,751.45,2024/03/03,East ,
+118,John Johnson ,iPhone 14,electronics,2,186.15,,2024/06/28,west,Completed
+119,John Brown,Mouse,hardware,1,10.05,1167.46,03-12-2024,South,Pending
+120,Alice Smith,Monitor,Electronics,3,1071.08,2026.79,11-03-2024,EAST,Active
+121,John Johnson  ,Monitor,electronics,2,541.33,925.60,2024-11-27,East ,Pending
+122,Sarah Johnson,Keyboard,electronics,2,389.18,nan,2024-07-26,South,N/A
+123,Patel Wilson  ,Laptop,Hardware ,2,29.22,254.31,2024-04-26,EAST,
+124,Mary Smith  ,iPhone 14,Hardware ,0,815.05,nan,07-17-2024,EAST,Active
+125,Alice Wilson  ,Laptop,hardware,1,1278.21,1139.85,05-30-2024,west,Completed
+126,John Johnson ,iPhone 14,electronics,3,1436.87,nan,2024/04/21,North,Active
+127,John Wilson,iPhone 14,electronics,1,852.96,nan,2024/03/17,West,
+128,Bob Davis  ,Laptop,Hardware ,2,776.55,nan,2024-09-19,South,Completed
+129,Patel Smith ,Monitor,Electronics,1,136.73,3090.72,2024/02/25,East ,
+130,John Brown***,iPhone 14***,Electronics,1,827.82,652.00,07-02-2024,South,Completed
+131,Patel Brown ,Laptop,ELECTRONICS,2,576.17,732.21,2024/02/13,North,completed
+132,Alice Smith  ,iPhone 14,Hardware ,1,914.63,0,10-21-2024,West,completed
+133,Alice Brown,Mouse,ELECTRONICS,2,589.20,1245.16,12-01-2023,South,Pending
+134,John Wilson,Monitor,Hardware ,0,,1077.43,10-21-2024,North,Pending
+135,Sarah Wilson ,Keyboard,hardware,1,151.50,0.00,2024/10/30,East ,Completed
+136,Sarah Brown,iPhone 14,electronics,3,479.23,0,2024/08/05,west,Active
+137,Sarah Smith  ,Mouse,hardware,2,154.00,2897.52,04-18-2024,EAST,N/A
+138,Patel Smith ,Keyboard,Hardware ,2,273.58,,09/11/2024,East ,N/A
+139,Bob Johnson ,Keyboard,electronics,1,1481.13,nan,2024/06/16,West,Active
+140,Sarah Johnson,iPhone 14,Electronics,1,671.71,0,2024/07/18,EAST,Active
+141,Mary Brown ,Laptop,Electronics,1,802.4889320924747,2047.15,2024-05-20,East ,completed
+142,Bob Smith  ,iPhone 14,ELECTRONICS,1,1311.69,nan,2024-06-18,East ,N/A
+143,Alice Smith ,Mouse,Hardware ,1,1493.40,456.89,03-31-2024,East ,Completed
+144,Alice Smith ,Keyboard,Hardware ,2,878.24,495.81,01-02-2024,East ,
+145,Sarah Davis  ,iPhone 14,Electronics,3,1220.59,0,10-09-2024,EAST,Pending
+146,Alice Brown ,Laptop,hardware,3,497.14,0,04/28/2024,West,
+147,John Smith,iPhone 14,electronics,2,465.56,nan,11/02/2024,North,completed
+148,Alice Brown ,Monitor,hardware,1.00,610.03,,2024/11/09,South,N/A
+149,Patel Davis  ,Laptop,hardware,1,1012.04,nan,12/17/2023,west,Active
+150,Patel Brown  ,Mouse,Electronics,1,1026.47,nan,09-09-2024,South,N/A
+151,Patel Johnson,Keyboard,Electronics,1.0,479.71,3470.70,06-25-2024,South,Completed
+152,Bob Smith,iPhone 14,Electronics,2,208.48,2436.5868741643794,2024-09-20,west,completed
+153,Alice Smith,Laptop,ELECTRONICS,2,952.27,0,03-25-2024,EAST,Active
+154,Bob Wilson,Monitor,hardware,1,201.21,,08-22-2024,West,
+155,Bob Brown,Laptop,Hardware ,1,871.95,615.63,06-08-2024,west,Completed
+156,Alice Brown ,Monitor,electronics,3,1043.20,,06/25/2024,West,
+157,John Smith,Mouse,ELECTRONICS,3,1053.91,1461.95,02/05/2024,EAST,Pending
+158,Alice Wilson ,Keyboard,Hardware ,1,1132.67,2694.6463330358106,03/11/2024,South,completed
+159,Sarah Davis  ,Mouse,hardware,0.00,1310.56,0,2024-06-21,West,Completed
+160,Sarah Davis,iPhone 14,Electronics,-1,754.94,420.75,07-27-2024,EAST,Completed
+161,Sarah Brown,Laptop,hardware,1,1098.07,0.0,2024-10-30,EAST,
+162,Alice Smith  ,Monitor,electronics,1,932.57,nan,2023-12-30,North,Active
+163,Bob Davis,Monitor,ELECTRONICS,2,288.09,1189.05,2023/12/16,west,Pending
+164,John Davis,Laptop,ELECTRONICS,0.00,48.28,0,05-07-2024,North,
+165,Patel Wilson  ,Laptop,electronics,3,433.97,3628.88,02/06/2024,South,Completed
+166,John Wilson  ,iPhone 14,Hardware ,1,670.12,0,08/13/2024,west,completed
+167,Bob Davis,Mouse,Hardware ,1,929.49,881.67,2023-12-12,South,Completed
+168,John Brown  ,Monitor,ELECTRONICS,2,,nan,2024-09-27,North,N/A
+169,Mary Smith,iPhone 14,ELECTRONICS,2,302.41,nan,2024-10-24,EAST,completed
+170,Mary Johnson,Mouse,Electronics,1,197.07,nan,09-03-2024,South,completed
+171,Patel Johnson ,iPhone 14,Hardware ,3,1445.59,nan,2024/04/06,west,Completed
+172,Sarah Johnson ,Monitor,electronics,2.0,170.99,nan,11/02/2024,west,Active
+173,Patel Johnson ,Laptop,Hardware ,3.0,722.95,nan,2024-09-02,South,completed
+174,Mary Johnson?,Laptop,Electronics,3,882.49,35.28,2024/02/13,west,N/A
+175,John Smith ,Mouse,ELECTRONICS,3,816.65,4322.84,03/26/2024,EAST,
+176,John Brown ,Keyboard,ELECTRONICS,2,138.19,nan,11-25-2024,EAST,Active
+177,Sarah Davis ,Mouse,Electronics,2.00,94.97,669.49,05/09/2024,west,Active
+178,Mary Johnson ,Keyboard,electronics,1,167.17,nan,02/07/2024,South,Active
+179,Patel Johnson ,iPhone 14,ELECTRONICS,2,882.53,0,2024/08/19,North,completed
+180,John Davis,iPhone 14,hardware,1,821.07,nan,06-06-2024,west,Active
+181,Alice Johnson ,Monitor,ELECTRONICS,2,358.27,nan,2024-05-17,west,Completed
+182,John Wilson ,Keyboard,hardware,1,960.28,1235.76,12/06/2023,west,Active
+183,Bob Wilson,Monitor,Electronics,1,1231.90,0,01-31-2024,west,N/A
+184,John Wilson ,Laptop,Electronics,1,71.95,0,08/07/2024,South,Pending
+185,Patel Wilson,Keyboard,ELECTRONICS,1,752.21,1389.50,04-04-2024,North,N/A
+186,Mary Johnson  ,Mouse,Hardware ,3,1037.07,,2024-06-27,North,completed
+187,Sarah Brown ,Laptop,hardware,3,385.94,117.60,2024/04/18,West,Active
+188,John Johnson ,Laptop,electronics,2,468.58,0,2024-06-26,west,Active
+189,Sarah Davis ,Mouse,ELECTRONICS,1,924.32,759.80,05/18/2024,west,Completed
+190,Sarah Johnson  ,Laptop,electronics,1,1347.92,0,2024/09/07,West,
+191,Mary Smith,Keyboard,ELECTRONICS,1.00,1216.79,nan,2024/01/11,North,Active
+192,Alice Johnson  ,Monitor,Hardware ,1,878.86,0,2023/12/08,East ,N/A
+193,Sarah Brown  ,Laptop,Hardware ,3,1098.03,0,02/15/2024,EAST,completed
+194,Alice Davis  ,Keyboard,Hardware ,1,553.59,800.57,11-22-2024,East ,Pending
+195,John Davis  ,iPhone 14,Hardware ,1,965.04,,2024-01-27,North,Active
+196,Alice Wilson  ,Keyboard,Electronics,1,704.61,1847.09,2024/07/17,west,Pending
+197,Alice Davis ,Monitor,Electronics,1,293.00,nan,11-17-2024,East ,Active
+198,Alice Davis,Keyboard,hardware,2,1055.59,nan,2024-09-28,South,completed
+199,Alice Brown ,Mouse,electronics,2.00,839.13,1564.7290807392556,2024-06-23,South,
+200,Alice Davis,Monitor,ELECTRONICS,1,544.35,nan,05/21/2024,West,N/A
+201,Mary Wilson,iPhone 14,ELECTRONICS,1,1367.90,1887.96,2024/02/23,North,completed
+202,Mary Brown  ,Mouse,Electronics,1,41.19,1161.80,11-18-2024,North,Pending
+203,John Brown  ,Keyboard,ELECTRONICS,1,480.50,2415.01,2024-06-18,East ,Active
+204,Alice Johnson ,Monitor,Electronics,1.00,94.75,0,2024/10/13,west,Pending
+205,Mary Davis ,iPhone 14,hardware,-1,1152.13,,05/17/2024,North,N/A
+206,Mary Davis,Mouse,electronics,2,1056.14,,2023/12/05,East ,completed
+207,Sarah Smith  ,iPhone 14,hardware,2,503.71,687.89,2024/04/30,East ,Pending
+208,Alice Davis  ,Keyboard,Hardware ,2,1016.74,nan,01/27/2024,EAST,Pending
+209,John Johnson  ,iPhone 14,Hardware ,2,599.95,622.14,07/17/2024,EAST,N/A
+210,Mary Smith,Laptop,Hardware ,2,1136.82,1649.81,2024-01-06,North,Active
+211,Mary Smith,Mouse,hardware,2,686.73,2471.73,02/09/2024,East ,Pending
+212,Bob Davis  ,iPhone 14,ELECTRONICS,3,624.30,143.31,02-06-2024,West,N/A
+213,John Davis  ,Keyboard,electronics,,1402.75,,2023/12/27,West,Active
+214,Bob Davis ,Keyboard,Hardware ,2,,,2024/10/08,EAST,
+215,Patel Wilson  ,iPhone 14,Hardware ,2.00,189.47,3857.01,2024/11/23,North,Active
+216,Mary Brown ,Keyboard,Hardware ,3,880.97,473.59,2024/06/02,west,
+217,Bob Smith,Monitor,electronics,2,1454.29,290.35,02-13-2024,West,completed
+218,Bob Wilson ,Monitor,Hardware ,2,572.98,0,04-20-2024,West,N/A
+219,Bob Smith  ,Monitor,electronics,1.00,102.43,nan,2024/11/21,EAST,Active
+220,Sarah Wilson ,Laptop,Hardware ,2,515.56,404.13,10/24/2024,EAST,
+221,Bob Wilson ,iPhone 14?,hardware,1,763.84,0,02-25-2024,North,
+222,Mary Johnson,Laptop,hardware,1,,160.74,2024/10/02,EAST,completed
+223,Bob Wilson ,Keyboard,electronics,1,990.57,0,2024-01-20,South,Completed
+224,John Davis  ,Laptop,hardware,2,1496.6465896251989,1081.08,06-01-2024,East ,N/A
+225,Mary Johnson,Keyboard,electronics,1,683.09,0,2024-01-25,West,Completed
+226,Sarah Davis,Keyboard,hardware,1.0,538.55,,2024-06-04,South,Active
+227,Alice Johnson ,Mouse,hardware,3,607.05,2887.23,06-20-2024,west,N/A
+228,Alice Johnson,Monitor,electronics,1,181.57,361.17,01-12-2024,South,completed
+229,Mary Brown,Keyboard,ELECTRONICS,2,1326.08,nan,2024/05/31,North,Active
+230,Mary Smith ,Mouse,hardware,2,628.09,,01-15-2024,west,N/A
+231,Bob Davis  ,Monitor,Hardware ,1,587.04,397.87,2024-02-01,west,N/A
+232,Alice Johnson,Keyboard,ELECTRONICS,3,992.94,nan,2024-03-22,EAST,Completed
+233,John Wilson  ,Keyboard,electronics,1,668.63,2683.28,12-06-2023,South,Active
+234,Patel Wilson,Laptop?,ELECTRONICS,,975.87,199.39,2023-12-09,North,completed
+235,Alice Johnson,Laptop,Electronics,2,101.55,1294.07,2024/02/15,West,completed
+236,Patel Wilson,Monitor,Electronics,2,1222.45,249.68,2024-03-06,EAST,Active
+237,John Smith,Keyboard,hardware,2,1411.35,0,05-11-2024,South,Active
+238,Bob Brown,iPhone 14,hardware,1,976.66,,06-19-2024,West,
+239,Patel Davis,Laptop,Hardware ,1,1432.30,167.64,07-30-2024,South,Pending
+240,Alice Brown ,Monitor,ELECTRONICS,3,235.63,nan,2024-07-01,EAST,Completed
+241,John Smith ,Keyboard,Electronics,2.0,721.35,2447.58,2024/03/23,West,Active
+242,Mary Brown  ,Keyboard,hardware,3,906.69,0,2024/08/13,EAST,Active
+243,Alice Davis  ,iPhone 14,ELECTRONICS,3,876.79,1550.28,2024-09-08,South,Pending
+244,Bob Wilson ,Monitor,hardware,3,,0,02/08/2024,west,Pending
+245,Sarah Johnson  ,Keyboard,hardware,2,513.75,0,11-01-2024,East ,N/A
+246,Bob Brown ,Laptop,Electronics,1.00,198.97,nan,11-06-2024,west,completed
+247,Mary Brown  ,iPhone 14,Electronics,3,593.70,2547.65,2024/09/05,EAST,Completed
+248,John Johnson ,Monitor,hardware,2,252.36,1489.09,2024/07/23,EAST,N/A
+249,Bob Johnson,iPhone 14?,electronics,1.0,1104.20,713.13,01-31-2024,EAST,Active
+250,Mary Johnson ,Laptop,hardware,3,321.16,nan,05/16/2024,West,Pending
+251,Sarah Johnson,Monitor,hardware,3,97.26,1271.71,06/19/2024,North,
+252,Patel Smith  ,iPhone 14,Hardware ,2,833.03,3748.78,2024/05/14,EAST,completed
+253,Alice Johnson  ,Mouse,Hardware ,1,896.89,,11/04/2024,west,N/A
+254,Bob Johnson  ,Laptop,Hardware ,1,1309.15,1519.85,12-28-2023,East ,
+255,Bob Brown  ,Laptop,electronics,3,869.70,1485.95,04-13-2024,EAST,completed
+256,Bob Wilson ,Laptop?,electronics,0,524.77,1726.86,05/08/2024,EAST,
+257,John Davis ,Mouse,hardware,1,1206.49,365.12,12-28-2023,EAST,Pending
+258,Bob Smith,Mouse,Hardware ,1,815.02,0,2024-10-23,West,N/A
+259,Alice Johnson  ,Keyboard,electronics,3,128.13,734.86,06-28-2024,EAST,N/A
+260,Bob Smith,iPhone 14,Electronics,1,853.12,1523.18,08-12-2024,west,completed
+261,Patel Smith,Keyboard,hardware,2,1362.95,169.16,01/10/2024,South,
+262,Patel Wilson ,iPhone 14,ELECTRONICS,-1,,0,04-10-2024,North,Pending
+263,Mary Smith,Mouse,hardware,1,451.53,2848.8578918328312,2024-03-04,EAST,Active
+264,Sarah Davis ,Mouse,ELECTRONICS,2,223.77,464.60,03-04-2024,West,N/A
+265,Alice Smith  ,Keyboard,Hardware ,1,235.65,784.80,2024-04-21,west,Active
+266,Bob Smith,Monitor,ELECTRONICS,1.0,654.83,2089.21,06/22/2024,EAST,Pending
+267,Patel Smith ,Keyboard,Hardware ,3,897.56,935.12,2024-06-04,West,N/A
+268,Sarah Smith ,iPhone 14,Electronics,2,130.12,62.39,2024/01/05,South,N/A
+269,John Wilson ,Keyboard,ELECTRONICS,nan,1409.96,0,04/19/2024,East ,
+270,John Davis  ,Laptop,hardware,2,1135.15,,2024/02/22,EAST,Active
+271,Patel Brown ,iPhone 14,Hardware ,1,884.07,832.05,11/27/2024,west,
+272,John Wilson ,iPhone 14,hardware,1,1244.37,nan,08-06-2024,West,Completed
+273,Alice Davis ,Monitor,electronics,1,129.48,2029.44,2024-10-31,West,Active
+274,John Brown,Mouse,Hardware ,1,720.49,0.00,2024-04-19,EAST,Active
+275,Alice Smith ,iPhone 14,ELECTRONICS,1,948.8387590238785,0,04-18-2024,West,Completed
+276,Alice Wilson,Mouse,Hardware ,1,1244.69,0,2024/04/09,East ,Pending
+277,Patel Johnson,Keyboard,hardware,2.0,1177.37,1118.30,2024-02-11,West,Pending
+278,Bob Davis ,Laptop,Electronics,3,422.83,692.07,07/05/2024,North,N/A
+279,Patel Wilson?,Monitor,Hardware ,2,1411.91,2283.37,09-11-2024,North,completed
+280,John Wilson,Mouse,ELECTRONICS,3,195.28,316.92,2024/08/01,West,
+281,Patel Davis,iPhone 14,electronics,1,1313.95,2133.70,11-09-2024,EAST,completed
+282,Alice Davis,Mouse,Electronics,1,1456.70,nan,2024-08-29,North,N/A
+283,John Davis ,iPhone 14,electronics,,273.96,,2023/12/08,west,completed
+284,Bob Johnson,Mouse,Hardware ,2,1085.88,0,2024/05/03,North,Active
+285,Mary Johnson ,iPhone 14,hardware,1,70.03,,10/25/2024,West,Active
+286,Bob Brown  ,Keyboard,hardware,3,614.08,0,2024/02/25,EAST,Completed
+287,Bob Brown  ,iPhone 14,ELECTRONICS,3,779.26,0,02-21-2024,South,Completed
+288,Patel Johnson  ,iPhone 14***,hardware,2,875.16,2231.15,2024-03-12,EAST,N/A
+289,Alice Smith,Laptop,Electronics,1,1404.55,nan,2024/04/09,EAST,N/A
+290,Mary Johnson,iPhone 14,hardware,3,,,05-30-2024,EAST,N/A
+291,Alice Smith ,Laptop,ELECTRONICS,2,727.10,0,07/14/2024,west,Active
+292,Bob Davis  ,Monitor,Hardware ,3,,,2024/01/03,East ,completed
+293,Mary Smith ,Laptop,Hardware ,3,1426.29,nan,11/04/2024,West,
+294,Mary Brown,Keyboard,hardware,,42.88,1086.80,11-20-2024,East ,N/A
+295,Mary Johnson ,Laptop,electronics,2,1473.96,971.29,02/12/2024,South,N/A
+296,Bob Davis  ,Monitor,Hardware ,1,138.34,,12/23/2023,East ,Active
+297,Bob Brown ?,Keyboard,hardware,2,1223.44,nan,2024/06/05,West,
+298,Bob Smith ,Mouse,ELECTRONICS,2,427.70,827.98,02-26-2024,West,Active
+299,Sarah Wilson ,Mouse,hardware,3,206.95,nan,2024-02-25,South,
+300,John Smith  ,Laptop,Hardware ,1,665.38,264.18,06/07/2024,West,Active
+301,Bob Wilson ,Laptop,ELECTRONICS,1,969.50,0,2024/10/22,South,completed
+302,Alice Wilson  ,Monitor,hardware,3,577.62,0,2024/08/04,South,N/A
+303,Patel Davis  ,Monitor,Electronics,3,91.30,0,03/16/2024,West,Pending
+304,Alice Brown ,iPhone 14,ELECTRONICS,0,903.20,0,08/10/2024,North,Pending
+305,Mary Johnson  ,Monitor,Electronics,3,1354.58,4157.09,03-09-2024,South,N/A
+306,Patel Brown,iPhone 14,electronics,2,580.99,,02/03/2024,West,N/A
+307,Bob Davis,Keyboard,ELECTRONICS,2,332.34,0,2024-03-02,North,N/A
+308,Mary Wilson ,Laptop,Electronics,3,669.440245439895,1056.57,2024/03/26,South,N/A
+309,Sarah Johnson  ,Keyboard,Hardware ,2,82.06,0,2023/12/23,North,
+310,Alice Wilson  ,Monitor,Hardware ,2.00,1232.53,nan,2024/10/28,west,completed
+311,Bob Smith ,Keyboard,electronics,1,1241.25,0,08-14-2024,EAST,Pending
+312,John Brown,Keyboard,ELECTRONICS,2.00,886.12,,04-13-2024,west,Completed
+313,Bob Wilson,Keyboard,ELECTRONICS,3,536.12,,12-31-2023,North,Pending
+314,Sarah Smith  ,Monitor,ELECTRONICS,1,1201.68,358.67,11-08-2024,South,Pending
+315,Alice Smith,Keyboard,electronics,1,836.48,nan,2024-02-13,West,Active
+316,John Smith  ,iPhone 14,ELECTRONICS,1,1240.64,2998.39,07/13/2024,East ,N/A
+317,Sarah Davis ,Monitor***,Hardware ,1,950.87,2410.78,2024-08-06,West,N/A
+318,Sarah Johnson  ,Keyboard,Electronics,1,1178.76,1182.22,06-11-2024,East ,N/A
+319,Alice Davis ,Monitor,Hardware ,2,901.86,nan,2024-04-02,East ,Active
+320,Bob Davis ,Mouse,Hardware ,0,627.07,,2024-11-04,South,completed
+321,Bob Davis  ,iPhone 14,Electronics,2,1437.34,470.77,2024-02-20,North,completed
+322,Patel Wilson,Keyboard***,Hardware ,1.0,816.26,868.33,2024-07-25,West,Completed
+323,Bob Wilson,Mouse,electronics,1.00,911.58,1140.39,12-07-2023,North,completed
+324,Patel Brown ,Mouse,Electronics,,338.53,3410.71,2023/12/02,west,completed
+325,Alice Smith,Monitor,Hardware ,1,942.22,0,2024-07-12,South,N/A
+326,Mary Smith,Mouse,hardware,3,861.70,376.35,02/11/2024,South,
+327,John Smith,iPhone 14,Hardware ,2,285.41,nan,2024-08-03,west,Pending
+328,Bob Brown  ,iPhone 14,electronics,3,98.78,,08/14/2024,West,completed
+329,John Brown ,Laptop,ELECTRONICS,1,910.50,0,2024/03/05,EAST,completed
+330,Alice Johnson ,iPhone 14,Hardware ,2,1147.90,nan,2024-05-01,west,Active
+331,Sarah Wilson  ,Mouse,ELECTRONICS,1,789.87,,2024-03-20,West,Completed
+332,Alice Davis,iPhone 14,hardware,0,347.89,nan,07-30-2024,East ,
+333,Mary Wilson  ,Monitor,Hardware ,2,1003.12,704.90,02/19/2024,South,Active
+334,Alice Johnson ,Laptop,Electronics,1,129.36,548.88,2024/06/04,West,N/A
+335,Mary Wilson,Mouse,ELECTRONICS,1,668.33,nan,08-19-2024,North,Pending
+336,Mary Wilson  ,Laptop***,hardware,1,253.42,,05/25/2024,North,Completed
+337,Alice Davis ,Mouse,Electronics,2,284.84,2353.82,2024/02/13,South,Active
+338,John Wilson ,Monitor,Electronics,1,311.42,260.50,01/25/2024,west,completed
+339,Patel Smith  ,Laptop,Electronics,2,586.19,0,12-18-2023,EAST,completed
+340,John Smith ,Keyboard,Electronics,1,86.21,,09/03/2024,west,Completed
+341,Bob Wilson,Mouse,Hardware ,2.00,602.71,2824.16,2024/07/04,West,completed
+342,Bob Wilson  ,Keyboard,Hardware ,3,772.44,4259.46,2024-10-15,west,Active
+343,Bob Davis ,Laptop,Hardware ,3,,nan,2024-02-07,South,Active
+344,Sarah Brown ,Keyboard,hardware,3,580.3483096005305,nan,07-29-2024,West,completed
+345,Bob Johnson,Keyboard,hardware,1,1260.33,84.98,2024/01/11,East ,completed
+346,Patel Davis,Laptop,hardware,1,226.54,nan,11-13-2024,west,N/A
+347,John Johnson,Monitor,electronics,2,763.49,nan,2024/04/12,west,Pending
+348,Mary Johnson  ,Keyboard,hardware,1,102.44,nan,2024-11-07,EAST,Completed
+349,Patel Davis,Keyboard,Hardware ,2,116.02,3352.79,10/27/2024,West,Active
+350,Bob Smith ,Monitor,Hardware ,1,865.06,nan,2024-08-03,North,Completed
+351,Sarah Smith ,Keyboard,electronics,1,853.37,0,2024-01-13,west,N/A
+352,Mary Smith ,Keyboard,electronics,1,1318.27,2511.52,2023/12/02,South,Active
+353,Patel Davis ,Keyboard,hardware,3,841.23,0,2024-02-07,west,N/A
+354,Mary Smith  ,iPhone 14,ELECTRONICS,1,1440.09,917.50,2024/11/11,EAST,N/A
+355,Sarah Brown ,Monitor,electronics,2,82.56,380.98,04-13-2024,East ,
+356,Patel Smith  ,Keyboard,Electronics,1,156.03,564.74,2024/02/05,EAST,completed
+357,Bob Smith  ,Monitor,Hardware ,2,75.66,778.90,02/17/2024,west,
+358,Mary Smith  ,Mouse,Electronics,1,286.06,,2024-11-23,North,Completed
+359,Patel Smith  ,Mouse,Hardware ,3,816.49,nan,2023-12-29,west,Completed
+360,Bob Wilson,Keyboard,Hardware ,3,971.90,0,02/02/2024,West,completed
+361,John Davis ,Monitor,electronics,1,77.92,0,01-11-2024,west,
+362,Bob Brown  ,Monitor,electronics,0,1419.50,0,12/03/2023,North,Completed
+363,Bob Davis***,Monitor,Electronics,,1264.83,88.71,2024-10-06,West,
+364,Bob Davis  ,iPhone 14,Hardware ,3,451.95,,12-06-2023,South,completed
+365,Mary Johnson ,Mouse,Electronics,3.0,,,04/19/2024,West,Active
+366,Patel Smith,Monitor,ELECTRONICS,1,263.13,,02/01/2024,EAST,N/A
+367,Bob Smith ,Monitor,Electronics,2.0,199.15,1545.58,07/30/2024,East ,N/A
+368,Sarah Smith,iPhone 14,hardware,1,193.69,795.24,11-23-2024,EAST,
+369,Patel Davis***,iPhone 14,Electronics,1,782.66,nan,2024-11-04,West,Completed
+370,Bob Wilson ,Monitor,hardware,nan,376.31,793.54,01/12/2024,South,
+371,Sarah Smith,Laptop,hardware,1,543.63,304.56,2024/11/11,west,
+372,John Johnson  ,Monitor,hardware,3,1484.36,485.04,06/17/2024,West,Pending
+373,Alice Johnson,Monitor,ELECTRONICS,3,1029.63,nan,11/28/2024,EAST,N/A
+374,Mary Johnson  ,iPhone 14,Electronics,3,,969.23,06/21/2024,West,completed
+375,Sarah Brown  ,iPhone 14,Electronics,nan,222.41,366.67,03/09/2024,West,
+376,Patel Johnson  ,Monitor,ELECTRONICS,1,579.39,nan,2024-03-03,West,Pending
+377,Alice Smith  ,Monitor,Hardware ,1,836.55,128.26,06-15-2024,South,Pending
+378,Sarah Wilson  ,Monitor,electronics,2,124.37,1206.02,08-29-2024,North,N/A
+379,Bob Brown,iPhone 14,Electronics,1,16.24,3552.52,01/25/2024,North,N/A
+380,John Smith,Monitor,electronics,1,1008.95,452.85,2024/09/26,West,N/A
+381,Bob Davis  ,Monitor,ELECTRONICS,1,966.31,nan,08-04-2024,South,completed
+382,Sarah Johnson ,Keyboard,Hardware ,3,622.08,nan,2023/12/16,South,Pending
+383,Patel Brown ,Laptop,Hardware ,2,739.57,0,2024-04-24,West,Completed
+384,Sarah Wilson  ,Mouse,Hardware ,1,629.01,nan,2024/07/02,EAST,completed
+385,Mary Johnson ,Laptop,ELECTRONICS,2,45.77,0,09-02-2024,EAST,Active
+386,Mary Johnson,Keyboard,hardware,1,509.70,,10-22-2024,East ,
+387,Sarah Brown  ,Mouse,hardware,1,273.85,2081.94,2024/07/29,West,N/A
+388,Patel Johnson,Monitor,electronics,3,156.6520417610394,nan,03-25-2024,East ,Pending
+389,Alice Smith  ,Keyboard,hardware,2,1435.51,1118.19,2024-04-04,EAST,
+390,Sarah Smith,Monitor,hardware,3,903.05,,04/29/2024,EAST,completed
+391,Alice Johnson  ,iPhone 14,Hardware ,1,1095.70,nan,2024/03/19,West,Active
+392,Patel Smith  ,Keyboard,Hardware ,3,479.89,nan,2024/09/19,East ,completed
+393,Bob Davis,iPhone 14,electronics,2,595.79,nan,05-17-2024,East ,completed
+394,Alice Johnson,Keyboard,Electronics,2,363.02,609.76,2024/11/17,West,Completed
+395,John Johnson,Keyboard,electronics,2,154.48,,02-18-2024,East ,
+396,John Wilson  ,iPhone 14,electronics,,276.76,1957.76,07-11-2024,west,Completed
+397,Alice Davis ,Mouse,ELECTRONICS,2,1198.30,434.17,2024-02-23,EAST,completed
+398,Mary Davis ,Laptop,ELECTRONICS,2,1019.54,4266.92,05-07-2024,North,Active
+399,Mary Davis  ,Monitor?,electronics,nan,824.92,790.50,2024/07/28,South,Pending
+400,Sarah Brown  ,Keyboard,electronics,3,717.88,1024.89,05/29/2024,East ,Pending
+401,Patel Brown  ,Monitor,electronics,2,1384.43,1828.10,08-25-2024,East ,
+402,Patel Smith,iPhone 14,hardware,3,118.38,0,10/27/2024,South,N/A
+403,Patel Wilson ,Monitor,ELECTRONICS,1,428.10,749.81,2024-07-17,East ,N/A
+404,Alice Smith  ,iPhone 14,electronics,1,531.41,193.74,04-10-2024,South,Pending
+405,Patel Brown,Monitor,Hardware ,2,1175.81,1822.34,2024-08-02,West,completed
+406,Patel Davis,Laptop,Hardware ,0.0,1488.85,1065.12,10/19/2024,west,completed
+407,Mary Davis  ,Laptop,hardware,0,368.60,0,2024-01-25,west,Completed
+408,Mary Brown  ,Laptop,hardware,1.00,1312.72,3620.17,08-03-2024,EAST,
+409,Patel Davis  ,Laptop,Electronics,2,1247.63,238.59,06/08/2024,North,Completed
+410,Bob Johnson  ,Laptop,Electronics,1,344.73952248623226,,2023/12/06,East ,N/A
+411,Alice Johnson ,Laptop?,Electronics,nan,605.0055444968416,1132.59,03-14-2024,North,Pending
+412,Bob Davis  ,iPhone 14,hardware,,620.41,,2024-08-03,West,completed
+413,Sarah Smith ,Keyboard***,hardware,2,1467.55,3599.09,04-14-2024,west,Pending
+414,Bob Smith,Monitor,hardware,3,279.53,1063.77,07-25-2024,West,Active
+415,Alice Johnson ,Laptop,Hardware ,3,1200.7453769461251,0,07/12/2024,West,Pending
+416,Sarah Johnson ,iPhone 14,hardware,2,507.95,nan,04/27/2024,East ,Active
+417,John Johnson ,iPhone 14,Hardware ,1,1099.00,,11-30-2024,West,Completed
+418,Bob Brown ,iPhone 14,Electronics,2,635.82,nan,2024/02/17,west,Completed
+419,John Johnson ,Keyboard,Electronics,2,871.7560470436447,,09/25/2024,North,N/A
+420,John Smith,Monitor,Electronics,2,1250.59,0,2024-10-01,west,Pending
+421,Sarah Brown,Keyboard,electronics,1,1208.21,0,2024/07/26,East ,Pending
+422,Bob Smith  ,Mouse,electronics,0,1300.97,nan,09-21-2024,west,Active
+423,Mary Wilson,iPhone 14,ELECTRONICS,1,98.83,872.06,2024-02-14,South,Completed
+424,John Smith  ,Mouse,ELECTRONICS,2,1041.16,0,2024/08/04,North,Active
+425,Patel Davis,Laptop?,ELECTRONICS,2,218.58,2506.82,2024-09-28,South,Completed
+426,Alice Johnson,Laptop,electronics,2,629.57,,05/07/2024,South,Active
+427,Alice Johnson  ,Keyboard,electronics,2,827.40,1148.54,2024-01-28,EAST,Completed
+428,Bob Johnson ?,Monitor,ELECTRONICS,1,610.08,,01-17-2024,East ,Active
+429,Sarah Brown  ,Mouse,ELECTRONICS,1,784.22,969.88,2024-07-21,West,Completed
+430,Patel Brown ,Monitor,hardware,2,1494.82,2938.74,04/01/2024,South,
+431,Sarah Brown  ,Keyboard,ELECTRONICS,2.0,211.47,0,2023-12-06,west,Active
+432,Alice Davis  ,Laptop,hardware,1,1016.43,2684.04,2024-02-03,West,Pending
+433,Mary Johnson  ,Monitor,Hardware ,3,600.04,1380.49,2023/12/03,west,N/A
+434,Sarah Brown ,Monitor,electronics,2,208.18,453.98,03-20-2024,west,
+435,Patel Smith,Laptop,ELECTRONICS,2,246.52,,2024/10/25,West,
+436,Bob Wilson  ,Mouse,electronics,3,1424.42,1113.36,2024/07/14,West,Active
+437,Mary Smith,Laptop,electronics,1,1320.61,1137.82,10/03/2024,west,N/A
+438,John Johnson,Monitor,electronics,1,1361.49,0,12/25/2023,East ,Pending
+439,Sarah Wilson  ,Mouse,Hardware ,3,1487.38,258.51,08-16-2024,North,
+440,John Smith,Mouse,Electronics,,320.39,0,09-21-2024,EAST,Pending
+441,Bob Wilson ,Laptop,ELECTRONICS,2,539.60,0,2024/06/28,North,Completed
+442,John Wilson ,Monitor,Electronics,3,,nan,2024/10/30,East ,N/A
+443,Mary Brown  ,Keyboard,Electronics,3,730.87,2103.229916294462,04-22-2024,EAST,completed
+444,John Davis  ,Monitor,Electronics,-1,633.40,807.68,04/17/2024,West,Completed
+445,Mary Wilson,iPhone 14,electronics,2,543.14,1538.52,2024/04/20,EAST,N/A
+446,Sarah Johnson ,Keyboard,hardware,2,894.73,,06-06-2024,west,Active
+447,John Wilson,Mouse,electronics,2,867.63,,08-06-2024,North,Active
+448,Patel Johnson  ,Keyboard,electronics,1,250.57,0,2024/02/25,EAST,Pending
+449,John Davis,Mouse,Electronics,2,712.89,933.18,09-28-2024,west,
+450,Sarah Wilson,Mouse,electronics,,834.67,nan,08-03-2024,East ,completed
+451,Mary Johnson,Keyboard,Electronics,0,859.73,1256.07,06-01-2024,EAST,Active
+452,Patel Brown  ,Mouse?,hardware,2,323.06,nan,12-18-2023,west,N/A
+453,Bob Davis  ,Mouse,ELECTRONICS,2,1115.98,189.52,2024/11/19,East ,
+454,John Smith  ,iPhone 14,Electronics,1,47.55,2557.58,2024/02/01,West,
+455,Bob Davis,Monitor,hardware,1,538.70,730.06,05-14-2024,East ,N/A
+456,Sarah Wilson,Monitor,ELECTRONICS,1,1172.52,4387.18,2024-07-19,East ,
+457,Sarah Brown,iPhone 14,Hardware ,2,850.20,0,07-29-2024,North,Active
+458,Sarah Smith  ,Keyboard,Electronics,1,399.13,1512.6122855510055,06/22/2024,west,N/A
+459,Patel Brown  ,Laptop,Electronics,2,1045.48,4416.95,2024/06/07,EAST,N/A
+460,Bob Wilson  ,Laptop,Hardware ,3,855.41,nan,09/12/2024,North,Pending
+461,Sarah Johnson ,Laptop,Hardware ,3,1196.40,923.14,05-05-2024,South,completed
+462,Alice Wilson,iPhone 14,Electronics,2,1105.1875274228369,2882.86,2024-07-31,East ,Pending
+463,Patel Wilson  ,iPhone 14,Hardware ,,919.06,531.51,2024-07-14,South,completed
+464,Sarah Smith ,Mouse,electronics,3,737.38,,2024/05/12,North,N/A
+465,Sarah Brown  ,Laptop,ELECTRONICS,3,208.44,215.57,2024-09-20,west,
+466,Sarah Smith ,Keyboard,ELECTRONICS,1,399.39,nan,09/05/2024,North,completed
+467,Mary Brown  ,Keyboard,ELECTRONICS,3,634.46,1780.78,2024-08-23,west,N/A
+468,Mary Brown ,Laptop,electronics,1,902.96,0.0,2024/03/25,west,N/A
+469,Bob Wilson,Laptop,Hardware ,3,775.42,nan,2024-01-28,West,Pending
+470,Bob Johnson ,Laptop?,hardware,,439.39,0,05-31-2024,East ,Pending
+471,Sarah Wilson ,iPhone 14,Hardware ,1,19.63,3801.25,2024-03-24,North,
+472,Patel Wilson,iPhone 14,Electronics,3,749.40,300.46,07-15-2024,west,Completed
+473,John Wilson ,iPhone 14,ELECTRONICS,2,435.58,,2024-07-04,North,Active
+474,John Wilson ,Monitor,Hardware ,nan,1104.57,848.36,2024/01/27,North,Completed
+475,John Johnson ,Keyboard,hardware,2,45.68,3436.98,2024-07-08,west,Completed
+476,Sarah Davis ,Keyboard,Electronics,3,881.39,3219.82,2024-07-20,EAST,
+477,Sarah Brown,Mouse,electronics,1,1412.80,638.38,2024/01/07,South,completed
+478,Alice Davis  ,iPhone 14,electronics,1,269.87,,2023-12-06,East ,
+479,Patel Brown,Monitor,hardware,1,712.76,0,04/06/2024,East ,
+480,John Johnson,Monitor,Electronics,nan,146.22,0,03-10-2024,EAST,N/A
+481,Mary Davis  ,Keyboard,ELECTRONICS,3,942.27,0,06/07/2024,West,N/A
+482,Mary Wilson,iPhone 14,Hardware ,3,830.29,683.80,05/10/2024,EAST,N/A
+483,Mary Davis,Mouse,Electronics,0.00,616.97,0,01/16/2024,West,Active
+484,Mary Wilson ,iPhone 14,electronics,1,786.85,0,07-22-2024,West,completed
+485,John Davis,Laptop,hardware,1,1345.90,2856.07,08-26-2024,EAST,completed
+486,John Smith  ,iPhone 14,hardware,1,302.48,1459.15,03/02/2024,East ,N/A
+487,John Brown***,Laptop,Hardware ,1,43.62,nan,01-16-2024,South,Completed
+488,Sarah Brown  ,Laptop,hardware,1,1293.88,nan,2024/04/27,East ,Active
+489,Sarah Smith  ,Mouse,hardware,2,869.90,0,10-02-2024,East ,Completed
+490,Bob Wilson ,Keyboard,Electronics,1,1337.08,134.05,2024/04/21,East ,Pending
+491,Alice Johnson  ,iPhone 14,ELECTRONICS,1,899.45,1089.59,2024-02-13,EAST,completed
+492,Sarah Davis  ,Laptop,Hardware ,1,1217.14,,2024-10-21,EAST,completed
+493,Patel Smith ,iPhone 14,Electronics,1.00,650.21,0,2023/12/07,EAST,Completed
+494,Mary Wilson  ,Keyboard,ELECTRONICS,nan,1127.29,1339.11,11/17/2024,East ,Active
+495,Patel Brown  ,Keyboard,Electronics,3,1370.43,nan,01/22/2024,South,completed
+496,John Wilson ,Monitor,Electronics,-1.00,862.46,0,11-16-2024,West,Completed
+497,Bob Brown,Keyboard,hardware,2,279.37,1159.44,09-12-2024,North,
+498,John Davis  ,Mouse,ELECTRONICS,1,410.51,1340.52,2024-10-16,West,
+499,Sarah Wilson,Laptop,Hardware ,3,305.98,0,01/19/2024,West,Active
+500,Sarah Brown  ,Monitor,Hardware ,1,377.82,0,11/21/2024,North,Completed
+501,Bob Davis,Mouse,ELECTRONICS,1,466.56,1587.32,11/07/2024,East ,
+502,Bob Brown,iPhone 14,hardware,1,837.15,2430.22,05-24-2024,South,Active
+503,Patel Johnson,Laptop,electronics,1,886.11,1098.07,2024-09-27,South,N/A
+504,Sarah Wilson,Keyboard,Electronics,1,645.48,0,09-07-2024,West,Active
+505,John Davis,Laptop,hardware,1,926.98,2018.77,02-26-2024,North,Pending
+506,Mary Smith  ,iPhone 14,ELECTRONICS,2,,411.46,02-19-2024,west,N/A
+507,Mary Brown  ,Monitor,Electronics,1,140.80,0,2024-08-20,East ,Completed
+508,Bob Smith  ,Monitor,Hardware ,1,266.03,1400.79,2024/07/19,West,N/A
+509,John Smith ,Monitor,electronics,3,781.94,3264.20,2024/02/10,South,N/A
+510,John Smith  ,Keyboard,Hardware ,1,328.85,,01/11/2024,EAST,Completed
+511,Mary Davis  ,Mouse,ELECTRONICS,1,432.09376120394023,2925.31,2024/09/16,EAST,Completed
+512,Patel Brown ,Mouse,Electronics,3,606.47,107.31,11/18/2024,North,
+513,Sarah Brown ,Laptop,ELECTRONICS,1,1219.68,1861.95,2024-09-22,North,Pending
+514,Patel Johnson  ***,Keyboard,Electronics,1,30.65,nan,2024/08/01,West,Completed
+515,Alice Davis ,Monitor,hardware,2,977.57,1646.33,05/18/2024,west,completed
+516,John Wilson ,Monitor,electronics,1,1006.63,1636.62,2024/03/03,South,completed
+517,Sarah Brown,iPhone 14,hardware,2,1200.00,262.79,2024-08-28,West,Pending
+518,Alice Davis  ,iPhone 14,hardware,3,1399.80,0.00,09/16/2024,west,Active
+519,Sarah Smith  ,Monitor,ELECTRONICS,1,40.01,2853.22,02-12-2024,North,Active
+520,John Davis ,Monitor,electronics,2,239.14,nan,03/30/2024,EAST,completed
+521,Bob Brown ,Keyboard,Electronics,2,1330.40,1410.72,2024-04-22,East ,Completed
+522,John Wilson,Mouse,Electronics,1,693.19,265.61,01/20/2024,EAST,Pending
+523,Sarah Johnson,iPhone 14,Hardware ,2,851.24,197.92,2024-05-29,South,Active
+524,Mary Davis  ,Mouse,Electronics,1,997.91,2157.20,06/29/2024,South,Active
+525,Patel Johnson  ,Keyboard,ELECTRONICS,2,1021.81,nan,05/27/2024,EAST,N/A
+526,John Davis  ,Monitor,hardware,1,1398.29,2303.92,08-22-2024,EAST,completed
+527,Alice Davis ,Mouse,hardware,2,1495.45,nan,2024-11-12,west,Completed
+528,Alice Davis,Monitor,hardware,1,1083.03,0,2024-03-11,West,Pending
+529,Bob Davis,Monitor,electronics,3,437.96,,2024-10-05,North,Active
+530,Alice Wilson ,Laptop,Electronics,1,1320.83,293.00,2024-04-30,west,N/A
+531,Bob Johnson ,Mouse,ELECTRONICS,2,83.34,nan,01-19-2024,East ,completed
+532,Patel Brown,Mouse,electronics,2,354.31,873.11,08-31-2024,EAST,completed
+533,Patel Wilson  ,Monitor,Hardware ,3,1347.10,0,06-29-2024,East ,Pending
+534,Alice Johnson,Keyboard?,ELECTRONICS,2,391.73,1942.81,04/11/2024,East ,Active
+535,Patel Brown,Laptop,ELECTRONICS,2,338.77,979.95,2024-07-13,west,Pending
+536,Bob Wilson ,Monitor,ELECTRONICS,3,215.81,0,06/30/2024,North,Pending
+537,Patel Johnson,iPhone 14,hardware,3,1290.08,1897.1572943692022,2024/09/02,South,
+538,Sarah Johnson ,iPhone 14,ELECTRONICS,1,755.09,,06-04-2024,West,N/A
+539,Sarah Brown ,Laptop,Electronics,2,1015.59,835.53,10-20-2024,South,completed
+540,Alice Johnson,Keyboard,ELECTRONICS,3,366.21,,03/04/2024,North,
+541,Bob Johnson,Monitor,hardware,,,2695.28,12-14-2023,South,Completed
+542,John Smith,Mouse,ELECTRONICS,3,1142.41,nan,2024/02/25,EAST,completed
+543,Alice Brown  ?,Laptop,Hardware ,1,475.77,62.89,06/02/2024,EAST,completed
+544,Alice Wilson  ,Keyboard,Hardware ,1,621.92,,2024-07-31,west,N/A
+545,Alice Wilson ,Mouse,hardware,2,322.44,,2024/11/16,East ,Completed
+546,Bob Davis***,iPhone 14,Electronics,3,1465.0759247511273,2574.46,07-08-2024,North,Active
+547,Mary Smith ,iPhone 14,Electronics,2,971.95,4145.85,02/05/2024,North,Completed
+548,Alice Johnson ,Mouse,electronics,2,1402.47,4358.83,12/30/2023,South,Active
+549,John Brown ,Laptop,hardware,3,462.04,0,12-11-2023,west,Completed
+550,Bob Smith ,iPhone 14,ELECTRONICS,1,1175.02,692.73,2024/03/07,South,Pending
+551,Sarah Brown ,Monitor,hardware,3,1151.13,nan,2024-04-30,South,Completed
+552,John Davis,Mouse,electronics,2,1040.57,,07-13-2024,North,
+553,Bob Johnson ,Mouse,hardware,1,1448.80,0,10-16-2024,South,
+554,Sarah Wilson,iPhone 14,hardware,2,596.40,,12-03-2023,East ,N/A
+555,Sarah Smith,Laptop,electronics,3,204.77,nan,2024-10-19,South,Active
+556,John Brown,Monitor,Electronics,,1010.8462002736505,0,2024/03/26,East ,completed
+557,Bob Smith  ,Laptop,ELECTRONICS,1,1096.67,nan,2024-04-03,North,N/A
+558,Bob Smith,Keyboard,electronics,-1,866.84,2632.19,2023/12/27,west,
+559,Mary Wilson,Keyboard,Hardware ,1,318.16,541.59,2024-03-04,EAST,
+560,John Davis  ,iPhone 14,Electronics,2,761.64,0,2024-02-23,East ,Active
+561,Mary Smith  ,iPhone 14,Hardware ,2.00,475.16,760.54,2024/05/05,west,
+562,Patel Wilson,iPhone 14,Electronics,2,646.93,3741.01,2024/11/19,west,
+563,John Johnson ,Keyboard,ELECTRONICS,2,971.38,999.38,05-31-2024,East ,Active
+564,Patel Johnson ,Laptop,ELECTRONICS,1,1120.37,514.17,11/06/2024,North,
+565,Mary Brown,Laptop,hardware,2,356.01,2807.86,05-30-2024,West,completed
+566,Mary Brown  ,iPhone 14,Hardware ,1,613.93,1369.1892811612815,2024/07/10,west,Pending
+567,John Brown,Monitor,Electronics,2.00,,nan,10/31/2024,west,N/A
+568,Patel Wilson ***,Laptop,ELECTRONICS,1,305.96,0,2024-07-22,North,completed
+569,Patel Brown ,Keyboard,electronics,2,1177.25,2229.10,2024-07-26,North,completed
+570,Sarah Smith,Mouse***,ELECTRONICS,1,1364.79,0,02-26-2024,South,Pending
+571,Alice Davis  ,Mouse,electronics,1,561.65,0,04/14/2024,North,N/A
+572,John Smith  ?,Mouse,Electronics,1,,4007.57,08/19/2024,west,completed
+573,Bob Brown  ,Monitor,ELECTRONICS,1,1346.5229811529725,2714.3904138826742,2024/09/07,East ,
+574,Sarah Johnson,iPhone 14,ELECTRONICS,3,1270.73,1599.56,05-08-2024,West,Pending
+575,Alice Johnson  ,Keyboard,Electronics,1,282.39,154.45,2024-07-03,South,N/A
+576,Bob Smith  ,Monitor,ELECTRONICS,0,1434.87,1132.55,2024-02-27,East ,Completed
+577,John Wilson  ,Keyboard,electronics,-1,571.25,2084.48,04-26-2024,West,Active
+578,John Smith ,Keyboard,ELECTRONICS,2,515.47,0,2024/07/10,West,
+579,Alice Wilson  ,iPhone 14,Hardware ,1,103.02,1680.61,08/06/2024,West,Pending
+580,Bob Smith  ,Mouse,hardware,1,734.40,nan,2024-02-05,EAST,Active
+581,John Davis,iPhone 14,electronics,3,172.43028730498378,nan,03/23/2024,East ,Completed
+582,Sarah Brown ,Monitor,Hardware ,1,380.32,nan,2024/02/28,South,completed
+583,Patel Brown,Monitor,Electronics,1,482.24,,2024-11-09,South,completed
+584,Sarah Davis ,Monitor***,electronics,2,1215.15,626.36,2024/01/13,West,N/A
+585,John Davis ,iPhone 14,hardware,3,1314.48,1127.74,2024-06-28,East ,Pending
+586,Bob Brown  ,Keyboard,hardware,3.0,460.67,nan,2024/11/23,EAST,Pending
+587,Mary Smith ,Keyboard,Electronics,1,1289.46,,07-12-2024,West,N/A
+588,Sarah Brown  ,Laptop,Electronics,,1287.27,0,2024-02-21,North,Active
+589,Mary Johnson ,Monitor?,electronics,,1149.33,,2024-01-15,South,completed
+590,Sarah Wilson  ,Keyboard,ELECTRONICS,1,228.58,1002.00,2023/12/26,west,completed
+591,John Johnson ,Laptop,Electronics,3,1038.58,666.50,2024-06-22,West,Pending
+592,Sarah Brown  ,Keyboard,ELECTRONICS,1,1418.09,,04-03-2024,North,Pending
+593,Alice Smith ,Monitor,Hardware ,1,1026.985313363064,,01-26-2024,South,N/A
+594,Bob Brown  ,Mouse,hardware,1,504.11,3974.51,09-01-2024,EAST,Completed
+595,Mary Johnson,Monitor,ELECTRONICS,3,755.86,939.69,2024/11/24,East ,Active
+596,Patel Johnson,iPhone 14,hardware,3,972.13,,2024-07-17,South,
+597,Alice Smith,Keyboard,ELECTRONICS,2,770.7499090054703,198.09,03/12/2024,East ,Completed
+598,Alice Johnson,Keyboard,Hardware ,3,,4002.04,2024-09-18,East ,Completed
+599,Bob Smith ,iPhone 14,Electronics,1,474.98,nan,2024-04-19,EAST,Pending
+600,John Brown,iPhone 14,Hardware ,2.0,1205.57,957.47,04/03/2024,EAST,Pending
+601,Patel Davis,Mouse,Electronics,,1293.51,nan,08/06/2024,West,Pending
+602,Sarah Smith ,Keyboard,Electronics,1,214.58,0.00,01-25-2024,West,Completed
+603,Bob Brown ,Keyboard,hardware,2,1429.06,162.39,2024/04/14,South,Active
+604,Patel Smith,Mouse,Hardware ,0,499.95,1604.4724585662316,2024-10-20,EAST,Pending
+605,Alice Johnson ,Laptop,ELECTRONICS,1,996.85,3858.88,12/12/2023,North,completed
+606,Patel Brown ,Mouse,Hardware ,1,1130.22,nan,03-27-2024,South,Active
+607,Alice Wilson ,Monitor,hardware,1,1219.80,,2024/06/29,west,completed
+608,Bob Davis  ,Keyboard,Electronics,1,,1285.89,10/12/2024,East ,Active
+609,Sarah Johnson ,iPhone 14,hardware,0,476.25,584.47,06-29-2024,East ,Pending
+610,Mary Smith ,Monitor,electronics,2,1289.17,0,2024/10/16,West,
+611,Bob Brown,Keyboard,electronics,2,206.21,1145.28,12/03/2023,North,N/A
+612,Bob Brown  ,Mouse,ELECTRONICS,3,1060.51,1525.24,2024-02-20,EAST,Pending
+613,Alice Davis,Monitor,hardware,1,1115.55,2965.34,01-08-2024,EAST,Completed
+614,Alice Johnson ,Keyboard,ELECTRONICS,2,1019.81,703.26,2024/09/24,West,
+615,Mary Smith  ,Laptop,ELECTRONICS,2,385.95,0,06-17-2024,west,Completed
+616,Bob Wilson ***,Laptop,electronics,2,1310.83,,2024/05/18,South,Active
+617,Patel Johnson ,iPhone 14,ELECTRONICS,,261.60,nan,01-10-2024,South,Completed
+618,Mary Brown,Keyboard,electronics,3,89.92,731.35,2024/02/11,North,
+619,Alice Wilson,Laptop,Electronics,1,1079.02,,2023/12/25,West,
+620,Bob Davis  ,Mouse,hardware,3,718.46,3457.81,09/24/2024,West,Pending
+621,Sarah Smith,Keyboard,ELECTRONICS,1,1275.16,819.50,2024/08/14,west,completed
+622,Mary Davis,Mouse,electronics,1,581.26,0,2024/10/09,South,Pending
+623,Alice Brown,Mouse,Hardware ,1,260.74,1084.96,2024-09-15,West,Active
+624,Alice Johnson ,Laptop,ELECTRONICS,1,1256.30,0,2023/12/15,EAST,Completed
+625,Sarah Wilson  ,Keyboard,Electronics,2,827.88,1323.64,2024/09/09,North,completed
+626,John Johnson ,Monitor,Electronics,2,291.90,nan,12/07/2023,South,N/A
+627,Sarah Brown ,Laptop,Hardware ,0,1083.37,nan,08/06/2024,west,
+628,Sarah Smith  ,Laptop,electronics,2,771.56,nan,2024-03-27,North,completed
+629,Mary Brown  ,Keyboard,ELECTRONICS,2,910.43,nan,2024-06-22,East ,completed
+630,John Smith ,Keyboard?,electronics,1,696.74,180.97,02-07-2024,EAST,Pending
+631,Mary Davis ,Mouse,Electronics,1,1244.78,395.89,2024/09/26,west,N/A
+632,John Smith  ,Keyboard,electronics,2,1246.05,,2024/07/06,North,
+633,Sarah Brown,Mouse,Electronics,2,1066.99,821.21,2023-12-26,West,Active
+634,Sarah Wilson  ,Laptop,electronics,,167.05,nan,2024-11-17,East ,Active
+635,Mary Johnson  ,iPhone 14,Hardware ,1,1259.89,nan,2024-08-12,west,completed
+636,Bob Davis,Monitor,hardware,1,1009.81,175.22,2024-05-14,West,completed
+637,Mary Davis ,Laptop,Hardware ,2,1048.57,1793.92,2024-08-29,EAST,Completed
+638,Patel Johnson,Keyboard,Hardware ,1.00,550.84,1626.80,02-16-2024,East ,N/A
+639,Bob Johnson ,Monitor,hardware,1,1320.13,4360.60,12-07-2023,South,
+640,Alice Smith  ,iPhone 14,hardware,3,1090.80,0,2024-08-25,West,completed
+641,Sarah Johnson ,iPhone 14,ELECTRONICS,1,,209.53,2024/11/20,North,Completed
+642,John Davis,Mouse,ELECTRONICS,2,617.59,832.02,2024-11-03,west,N/A
+643,John Johnson ,Monitor,Hardware ,1,1330.71,3789.70,08-22-2024,East ,
+644,Alice Davis  ,Mouse?,Hardware ,1,80.32,2990.61,08-30-2024,West,Active
+645,Mary Davis ,Laptop,Electronics,1,1442.51,0,12/17/2023,South,Completed
+646,Patel Smith ,Monitor,Electronics,3,1021.95,974.49,2023-12-07,west,N/A
+647,Sarah Brown,Laptop,ELECTRONICS,1,950.75,,05/26/2024,west,Completed
+648,Mary Wilson  ,Mouse,ELECTRONICS,3,413.13,294.95,03-02-2024,West,completed
+649,Bob Smith ,Monitor,Electronics,,380.70,2780.97,2024/10/14,South,Pending
+650,Bob Johnson  ,Mouse,Electronics,3,1413.67,,02/27/2024,EAST,Active
+651,Bob Smith?,Monitor,electronics,1.00,454.43,0,07/31/2024,EAST,completed
+652,Mary Davis  ,Mouse,electronics,2,1165.50,,2024-09-21,East ,completed
+653,Alice Johnson,iPhone 14,Electronics,2,595.75,nan,04-06-2024,West,N/A
+654,Sarah Johnson  ,Mouse,electronics,0,217.49,0,2024/08/14,East ,Completed
+655,Alice Brown  ,iPhone 14,hardware,1,25.97,,2024-04-02,EAST,Active
+656,John Brown ,Mouse,ELECTRONICS,1,820.94,1228.17,2024-05-18,west,completed
+657,Bob Wilson,Monitor,ELECTRONICS,1,1463.91,2438.17,10/08/2024,East ,N/A
+658,Patel Johnson,Monitor?,Electronics,3,560.01,,2023/12/14,South,Active
+659,Bob Davis,Monitor,Hardware ,2.00,542.22,2435.40,2024/05/30,North,Completed
+660,Patel Brown ,Keyboard,Electronics,3,522.70,230.24,2024-11-11,EAST,completed
+661,Alice Smith ,Laptop,electronics,1,,2803.42,2024-04-12,EAST,
+662,Patel Brown ,Monitor,Hardware ,1,666.59,nan,10/04/2024,South,completed
+663,Sarah Johnson ,iPhone 14,electronics,1,1321.07,2971.04,07-07-2024,East ,completed
+664,Sarah Davis,Monitor,hardware,-1,763.23,nan,08/28/2024,West,Active
+665,John Johnson  ,Keyboard,electronics,2,766.56,0,01-19-2024,west,Active
+666,Alice Wilson  ,iPhone 14,hardware,0,216.17,2907.45,09-18-2024,North,Active
+667,Patel Brown ,Keyboard,hardware,1.00,1474.28,,08-05-2024,West,Active
+668,Alice Brown,iPhone 14,electronics,2,,2775.48,04/07/2024,West,N/A
+669,John Brown ,Mouse,electronics,2,119.31,2341.58,09/08/2024,South,Pending
+670,Bob Brown ,Laptop,hardware,1,998.09,184.43,01-01-2024,East ,N/A
+671,Mary Smith  ,Laptop,Hardware ,3,897.10,nan,2024-06-17,EAST,completed
+672,Mary Johnson,Keyboard,hardware,0,628.57,nan,2024-11-20,EAST,N/A
+673,Bob Smith,Laptop,ELECTRONICS,3,639.07,1785.63,12/16/2023,South,Completed
+674,John Smith  ,Keyboard,hardware,3,1179.75,2186.74,2024/05/21,East ,
+675,John Smith,Keyboard,Hardware ,1,301.61,0,06-08-2024,South,Active
+676,Bob Brown ,Keyboard,ELECTRONICS,1,1232.18,74.91,2024-09-02,EAST,Completed
+677,Mary Smith,Laptop,Electronics,-1.00,976.63,,2024-01-24,West,
+678,Patel Brown,Keyboard,Electronics,1,634.26,0,12-03-2023,west,Completed
+679,Mary Davis  ,Laptop,Hardware ,3.00,692.46,4278.750920303433,2024-04-14,East ,completed
+680,Alice Wilson ,Keyboard,hardware,3,392.40,nan,06-23-2024,North,Active
+681,Patel Johnson,Monitor,electronics,2,1130.65,1284.63,2024/06/03,North,Completed
+682,Alice Brown ,Keyboard,Hardware ,nan,774.18,,02/23/2024,West,completed
+683,Bob Wilson  ,iPhone 14,ELECTRONICS,1,488.07,2728.95,2024/06/28,South,Active
+684,Patel Brown ,Keyboard,ELECTRONICS,1,898.11,455.40,05/28/2024,South,Pending
+685,John Davis ,Mouse,Electronics,1,1493.64,,2024/10/31,EAST,completed
+686,John Johnson  ,Keyboard,ELECTRONICS,2,658.54,668.75,2024/10/22,West,N/A
+687,John Smith ,iPhone 14,Hardware ,1,1381.83,,2023-12-11,EAST,Active
+688,Alice Brown,iPhone 14?,ELECTRONICS,1,524.0750914876035,0,07-26-2024,EAST,Completed
+689,Bob Smith,Laptop?,Hardware ,3,91.55,1692.11,03-22-2024,North,
+690,Bob Smith  ,Monitor,electronics,0,314.32,97.00,2024/03/15,EAST,Completed
+691,Mary Smith  ,Keyboard,Electronics,1,633.86,1021.3543289429524,04-06-2024,EAST,N/A
+692,Alice Brown,Laptop,ELECTRONICS,1.0,337.26,1172.90,2024-01-29,North,N/A
+693,Mary Smith,Monitor,Hardware ,0.00,10.34,929.25,2024/01/07,South,Completed
+694,Bob Johnson,Keyboard,hardware,1,,387.8834093044763,2024/06/09,East ,
+695,Mary Smith,Mouse,Electronics,1,1267.38,0,03-12-2024,west,Active
+696,Mary Davis  ,Keyboard,electronics,1,1116.02,24.85,2024/03/28,EAST,completed
+697,Sarah Johnson  ,iPhone 14,Hardware ,2,260.04,136.30,05/05/2024,East ,N/A
+698,Sarah Davis ,iPhone 14,electronics,1,,3640.09,11/08/2024,North,N/A
+699,John Brown  ,Mouse,electronics,-1.0,110.73,0,02/08/2024,East ,N/A
+700,Mary Brown,Laptop,ELECTRONICS,2,1088.80,4120.67,2024-04-23,west,
+701,Bob Johnson ,Monitor,ELECTRONICS,2,1393.92,3849.68,2024-03-02,East ,Pending
+702,Sarah Wilson,Keyboard,Hardware ,1,651.50,2055.86,04-07-2024,East ,
+703,Patel Johnson ,iPhone 14,hardware,2,187.52,175.95,03/26/2024,East ,Active
+704,Patel Johnson  ,Laptop,Hardware ,2,773.47,0,2024-05-23,East ,Active
+705,John Brown  ,Mouse,hardware,3,529.76,nan,2024-03-31,West,Active
+706,Alice Wilson,iPhone 14,electronics,3,568.49,2401.26,2024/07/08,EAST,Active
+707,Bob Johnson,Mouse,Electronics,2,935.78,,2024/10/06,North,Active
+708,Patel Davis  ,Keyboard,Hardware ,0,1080.89,357.02,11-05-2024,west,Completed
+709,Patel Johnson,Monitor,Hardware ,3,174.80,,02-02-2024,North,N/A
+710,Alice Smith,iPhone 14,hardware,3,63.03,2186.95,08-13-2024,West,
+711,Alice Davis,iPhone 14,electronics,1,1491.55,,01-03-2024,West,Completed
+712,Sarah Smith  ,Keyboard,electronics,1,356.77,,07/29/2024,West,
+713,Bob Johnson,Laptop,hardware,1,90.21,nan,2024/09/27,EAST,Pending
+714,John Davis ,Monitor,electronics,2,292.91,651.16,11-29-2024,West,completed
+715,Mary Wilson  ,iPhone 14,ELECTRONICS,2,68.05,0,09/27/2024,East ,N/A
+716,Sarah Johnson ,Monitor,Electronics,2,,0,2024/06/01,North,Pending
+717,Patel Johnson  ,iPhone 14,Hardware ,3.00,1205.58,nan,12/24/2023,South,Completed
+718,Mary Brown ,Monitor,Electronics,3,518.45,1497.86,01/10/2024,west,completed
+719,Bob Davis ,Mouse,Hardware ,0,671.83,46.97764505327223,03-21-2024,West,Pending
+720,Mary Brown  ,iPhone 14,ELECTRONICS,1,1016.62,3763.54,02/09/2024,North,
+721,Patel Wilson,Monitor,electronics,2,768.25,1108.79,03/04/2024,West,completed
+722,Bob Smith,Laptop,hardware,1,1293.55,nan,2024/09/21,EAST,
+723,Bob Davis,Mouse,ELECTRONICS,,1300.39,1672.77,2024/03/24,West,Pending
+724,Alice Smith  ,Mouse,Electronics,1,24.77,nan,2024-02-20,West,Completed
+725,Alice Smith,Laptop,hardware,1,1169.29,,11/30/2024,West,
+726,Mary Smith  ,Monitor,electronics,2,696.49,nan,01/29/2024,West,completed
+727,Alice Davis,Keyboard,ELECTRONICS,3,1483.37,244.73,09-06-2024,west,Pending
+728,John Smith ,Laptop***,hardware,1,730.02,0,05/16/2024,North,
+729,Patel Davis  ,Monitor,ELECTRONICS,,1480.47,,2024/01/17,EAST,Completed
+730,Sarah Johnson,Laptop,ELECTRONICS,2,1134.31,nan,2024/07/07,West,N/A
+731,Alice Johnson  ,Laptop,electronics,1,380.42,2085.94,05/25/2024,West,Completed
+732,Sarah Davis ,iPhone 14,Hardware ,2,812.21,914.39,2024/05/11,West,Completed
+733,John Smith,Monitor?,hardware,1,1488.28,nan,2024-04-05,West,N/A
+734,Bob Smith  ,Keyboard,electronics,2,1287.72,nan,2024-03-16,East ,Completed
+735,John Smith ,iPhone 14,ELECTRONICS,2,155.08,,03-24-2024,East ,N/A
+736,Alice Wilson,Laptop,electronics,1,1062.49,nan,08-04-2024,South,N/A
+737,Patel Johnson  ,Laptop,Hardware ,1,524.91,2241.87,12/29/2023,West,
+738,Bob Davis ,Laptop,hardware,2,20.40,nan,03/11/2024,South,
+739,Bob Brown ,Monitor,Hardware ,0,611.19,1686.23,06-20-2024,west,N/A
+740,Alice Brown ,Monitor,Electronics,1,359.78,nan,2024/06/02,South,Pending
+741,Sarah Davis ,iPhone 14,hardware,3.00,1230.12,450.42,2024/08/18,North,completed
+742,Mary Smith  ,Keyboard,Hardware ,2,512.62,1337.36,2024-10-15,East ,Pending
+743,Alice Wilson,iPhone 14,ELECTRONICS,0,1243.01,1523.45,05-14-2024,East ,N/A
+744,Patel Wilson,Mouse,hardware,3.0,10.89,787.53,2023/12/31,West,completed
+745,Bob Davis ,Laptop,hardware,2.0,468.65,2647.87,09/13/2024,West,
+746,Patel Davis ,Laptop,electronics,2,369.34,22.66,2024/01/26,west,completed
+747,Sarah Johnson,Laptop,ELECTRONICS,3,358.02,,06/09/2024,EAST,N/A
+748,Patel Johnson ,iPhone 14,Electronics,1,111.60,,2024-08-17,west,
+749,John Johnson  ,iPhone 14,Hardware ,1,288.82,1667.30,03-08-2024,North,completed
+750,John Smith  ,Laptop,electronics,1,837.77,nan,2024-01-03,West,completed
+751,Mary Brown ,iPhone 14,Hardware ,3,444.13,0,2024-05-01,West,Pending
+752,Sarah Davis,Monitor,Electronics,3,631.92,2866.42,12/16/2023,west,completed
+753,Bob Smith ,Monitor,Electronics,1,571.53,735.65,11/14/2024,west,N/A
+754,John Brown,iPhone 14,hardware,2,1315.10,492.05,2024-03-19,west,Active
+755,Alice Johnson ,Laptop,Electronics,2,1358.90,nan,07-04-2024,East ,Active
+756,John Davis  ,iPhone 14,Hardware ,1,744.51,869.63,02-17-2024,South,Active
+757,Patel Johnson ,iPhone 14,ELECTRONICS,,501.93,481.43,01-16-2024,South,N/A
+758,Patel Johnson ,iPhone 14,ELECTRONICS,1,169.13,1081.46,09-25-2024,West,Active
+759,Mary Smith  ,Mouse,hardware,1,1430.57,nan,06-30-2024,East ,Pending
+760,Patel Brown  ,Monitor,Hardware ,2,99.74,0,10-23-2024,west,N/A
+761,Sarah Davis  ,Keyboard,Hardware ,3,453.50,0.00,08-25-2024,West,
+762,Bob Smith ,Keyboard,Electronics,1,454.12,,02/01/2024,East ,N/A
+763,John Wilson ,Mouse,Hardware ,2.0,487.40,,2024-09-14,North,N/A
+764,Sarah Davis,iPhone 14,electronics,2,254.79,18.74,2024-06-22,EAST,completed
+765,Mary Brown ,Mouse,Electronics,1,1176.91,,01-13-2024,East ,completed
+766,John Brown,Mouse,electronics,1,192.52,0,11-24-2024,West,completed
+767,Patel Wilson ,Laptop,hardware,2.0,956.01,nan,2024-07-09,South,Completed
+768,Bob Smith  ,Monitor,ELECTRONICS,1,194.53,1063.14,04-19-2024,west,Pending
+769,Patel Smith  ,Keyboard,hardware,0,115.10,1380.86,2024/06/17,EAST,N/A
+770,Mary Wilson,iPhone 14,ELECTRONICS,3,1365.05,413.32,2024/05/27,North,N/A
+771,Mary Smith ,Keyboard,hardware,nan,293.29,562.03,09/21/2024,EAST,completed
+772,John Davis ,Keyboard,Hardware ,1.0,1233.66,2573.08,2024/10/24,EAST,N/A
+773,Patel Brown  ,Monitor,electronics,-1,821.50,,09-27-2024,East ,
+774,Mary Wilson,Keyboard,ELECTRONICS,2,126.01,nan,2024/07/13,West,N/A
+775,Sarah Brown  ,Keyboard,Electronics,1,1433.62,nan,10-22-2024,West,Active
+776,Bob Johnson ,Mouse,electronics,1,377.97,417.19,2023/12/14,EAST,
+777,Mary Davis ,Monitor,Electronics,1,1290.87,1007.04,2024-05-13,west,
+778,Alice Davis,Laptop,electronics,2,261.53,1864.06,06-20-2024,West,N/A
+779,Alice Davis,iPhone 14,electronics,2,1282.37,0,11/02/2024,EAST,Completed
+780,Bob Smith  ,Keyboard,hardware,1,29.71,0,2024/01/19,West,completed
+781,Mary Davis  ,iPhone 14,ELECTRONICS,2,772.55,nan,03/11/2024,west,Pending
+782,Sarah Davis ,Laptop,ELECTRONICS,1,1156.47,nan,01-29-2024,North,Pending
+783,Patel Johnson  ,iPhone 14,electronics,,1402.85,1372.80,11-26-2024,EAST,Active
+784,Patel Johnson,Laptop,Hardware ,1,1364.71,918.95,02-10-2024,South,Pending
+785,Patel Davis  ,Mouse,Hardware ,3,1231.24,,2024/07/14,South,Pending
+786,Bob Smith  ,Keyboard,Electronics,,1333.41,1283.06,09/16/2024,EAST,completed
+787,Sarah Brown ,Laptop,Electronics,2,306.84,3378.03,2024/09/12,East ,completed
+788,Alice Smith  ,iPhone 14,hardware,1,433.43,,01-29-2024,North,Completed
+789,Patel Brown,Keyboard,electronics,1,,370.16,05-12-2024,East ,Active
+790,John Davis,Mouse,Electronics,3.00,571.81,385.48,07/29/2024,South,Pending
+791,Patel Davis ,Keyboard,Electronics,1,,1381.93,11/03/2024,west,Completed
+792,John Davis  ,Laptop,electronics,1,821.39,nan,01/12/2024,EAST,Active
+793,Mary Wilson  ?,Mouse,hardware,1,248.22,2414.66,2024/04/17,West,
+794,Patel Wilson ,iPhone 14,Electronics,2,1039.96,898.63,2024-09-16,South,Pending
+795,Bob Brown,Mouse,hardware,2,259.67,1110.76,2024/01/03,North,Pending
+796,Bob Johnson***,Mouse,ELECTRONICS,3,472.36,2425.18,2024/07/18,South,completed
+797,John Brown  ,Monitor,hardware,1,759.98,0.0,2024/03/04,North,N/A
+798,Mary Johnson  ,Mouse,Hardware ,1,1196.70,183.95,2024/03/19,North,Active
+799,Patel Davis ,Mouse,Hardware ,3,1111.81,nan,2024/09/11,EAST,Pending
+800,Sarah Johnson  ,Keyboard,hardware,3,971.85,2429.76,2024-02-13,North,Active
+801,Alice Johnson ,iPhone 14?,Hardware ,1,242.10,nan,11/02/2024,East ,Completed
+802,Sarah Davis ,Keyboard,ELECTRONICS,2,825.10,938.89,04/05/2024,west,Completed
+803,Bob Wilson,Keyboard,electronics,1,140.30,nan,04/09/2024,South,N/A
+804,Mary Davis ,Laptop,Hardware ,0,572.27,2297.00,2024/11/08,west,Pending
+805,Sarah Brown,Keyboard,Hardware ,1,626.14,758.48,07-31-2024,West,completed
+806,John Smith  ,Monitor,hardware,0,69.32,128.30,2024-09-22,South,Pending
+807,John Johnson ,Monitor,ELECTRONICS,2,418.24,323.50,2024/05/05,west,Active
+808,Alice Davis  ,Laptop,electronics,2,1433.92,2190.91,2024-05-07,west,
+809,Patel Brown,iPhone 14,hardware,1,1430.91,0,10-30-2024,EAST,Completed
+810,Sarah Johnson  ,iPhone 14,hardware,2.00,534.97,nan,05-28-2024,EAST,Active
+811,John Johnson  ,Keyboard,ELECTRONICS,2,74.22,0,2024/08/29,West,N/A
+812,Alice Wilson  ,Keyboard,electronics,1,276.85,,07-05-2024,North,Completed
+813,Sarah Davis,Keyboard,ELECTRONICS,2,594.40,178.71,2024-06-11,South,completed
+814,Bob Wilson ,iPhone 14,electronics,,1422.19,615.49,01/10/2024,EAST,Completed
+815,Alice Wilson ,Mouse,ELECTRONICS,2,220.39,732.76,06/01/2024,South,
+816,Mary Wilson,Monitor,hardware,3,1147.64,nan,2024-02-09,West,Pending
+817,Patel Smith ,Mouse,hardware,1,171.94,1229.36,01-29-2024,EAST,
+818,Alice Smith  ,Mouse,Electronics,2,1472.0737903130025,nan,04-20-2024,EAST,
+819,Mary Smith,iPhone 14,Hardware ,1,578.61,,2024-10-16,North,Pending
+820,Sarah Johnson,Mouse,ELECTRONICS,2,1165.10,nan,2024-02-09,South,Completed
+821,Patel Johnson,Laptop,Electronics,0,520.46,838.25,2024-03-15,South,N/A
+822,Mary Davis,Keyboard,Hardware ,2,945.226626966625,3156.89,2024/09/07,South,Pending
+823,Alice Wilson,Laptop,ELECTRONICS,1,296.10,1871.72,12/02/2023,North,Pending
+824,Patel Brown  ,Monitor,electronics,1,227.57,nan,06-28-2024,EAST,completed
+825,Alice Davis,Keyboard,Hardware ,2,1407.72,,06-05-2024,West,Completed
+826,Alice Davis  ,Mouse,hardware,2,1377.294444077606,1583.52,02-01-2024,South,Pending
+827,Patel Smith  ,Monitor,Electronics,3,1332.33,,06/01/2024,west,N/A
+828,Sarah Brown,Keyboard,Hardware ,3,941.90,513.62,12-26-2023,North,Active
+829,Patel Johnson  ,Mouse,Hardware ,2,1214.32,2722.46,2024/06/11,East ,Completed
+830,Mary Johnson,Laptop,hardware,1,112.87,2655.54,04-06-2024,West,completed
+831,Sarah Johnson ,Keyboard,ELECTRONICS,1,508.83567241711194,nan,02-18-2024,west,
+832,Bob Wilson  ,Mouse,electronics,1,477.42,,01-23-2024,South,Pending
+833,John Brown,Laptop,hardware,1,957.11,3410.91,2024-08-03,East ,N/A
+834,Bob Smith ,Monitor,electronics,2,540.38,1193.26,2024/04/11,West,Completed
+835,Bob Davis,Monitor,ELECTRONICS,2,231.28,2240.85,2024/09/28,North,N/A
+836,Patel Wilson ,Monitor,Hardware ,2,898.74,,04-26-2024,East ,N/A
+837,Mary Wilson,Monitor,electronics,1,1223.43,817.65,2024-03-02,EAST,
+838,Sarah Brown,iPhone 14,Electronics,1,579.36,1865.38,04/09/2024,East ,completed
+839,Patel Brown ,Keyboard,Electronics,1,207.08,1348.91,2024-08-18,west,Completed
+840,John Wilson ,Keyboard,hardware,1,303.07,2690.85,09-16-2024,West,Pending
+841,Alice Davis,iPhone 14,ELECTRONICS,,363.85,3095.14,2024/06/19,west,completed
+842,Bob Davis,Mouse,hardware,1,456.85,0,06/10/2024,west,Pending
+843,Patel Wilson  ,Mouse,hardware,2,967.76,426.82,10-25-2024,South,Active
+844,Sarah Brown ,Monitor,hardware,1,905.41,nan,08-13-2024,North,N/A
+845,John Davis ,Laptop,Electronics,3,1047.16,1463.17,01/22/2024,East ,Active
+846,Patel Brown  ,Mouse,Electronics,2,550.13,nan,2024-08-24,West,N/A
+847,John Johnson,Laptop,hardware,1,,733.32,2024/11/24,EAST,
+848,Alice Johnson,Keyboard,Electronics,2,314.09,1898.32,11-27-2024,North,completed
+849,Bob Brown,Laptop,ELECTRONICS,3,708.87,768.55,02/01/2024,North,Pending
+850,John Smith ,Keyboard,hardware,-1,1203.40,975.29,09/18/2024,West,
+851,Alice Johnson  ,iPhone 14,Electronics,1,278.44,211.12,2024/05/21,North,Pending
+852,Alice Brown  ,iPhone 14,electronics,3,173.70,902.61,2023-12-11,South,completed
+853,Alice Smith,Monitor,hardware,0.00,1326.69,1725.41,04-04-2024,North,Completed
+854,John Davis  ,Mouse,hardware,0,520.97,2005.09,10-10-2024,South,Active
+855,Bob Brown,Monitor?,ELECTRONICS,2,1028.97,1579.832862724523,2024/06/09,East ,Active
+856,Sarah Johnson,Keyboard,Hardware ,2,47.77,nan,2024/06/03,East ,Pending
+857,Alice Brown  ,Monitor,Hardware ,2,1038.17,1341.33,2024-02-23,west,Pending
+858,Bob Wilson  ,Laptop,ELECTRONICS,3,480.99,2275.23,2024-11-27,South,Pending
+859,Bob Wilson,Keyboard,ELECTRONICS,2,,504.68,2024/10/08,EAST,completed
+860,Mary Brown  ,iPhone 14,ELECTRONICS,2,918.62,nan,2024/03/25,East ,Completed
+861,Alice Smith ,Mouse,Hardware ,2,368.80,472.90,2024/11/23,North,Active
+862,Sarah Smith,Keyboard,ELECTRONICS,3,586.34,204.17,2024-08-10,West,
+863,Sarah Wilson ?,Keyboard,Electronics,3,130.07,0,2024-02-09,West,N/A
+864,Alice Wilson,Laptop,hardware,1,229.27,,2024/02/29,South,completed
+865,John Smith,Mouse,hardware,3,453.99,754.12,10-12-2024,EAST,Active
+866,Alice Davis ,iPhone 14,electronics,2,143.74165583463414,nan,2023-12-09,west,Completed
+867,Bob Johnson  ,Keyboard,electronics,3,1367.13,0,2024/05/16,North,completed
+868,Patel Davis ,Keyboard,hardware,2,,0,09/07/2024,South,
+869,John Davis ,Laptop,Electronics,1,730.95,nan,10/13/2024,West,Active
+870,Mary Johnson ,Monitor,Hardware ,0,193.64,387.27,2024/02/23,South,completed
+871,Sarah Brown  ,iPhone 14,Hardware ,1.00,468.44,0,2024/03/20,North,Active
+872,Bob Smith  ,Mouse,Electronics,3,1389.83,2388.28,01/20/2024,EAST,Active
+873,John Wilson,Keyboard,Hardware ,2,250.92,0,2023-12-01,EAST,Completed
+874,Sarah Smith  ,Keyboard,ELECTRONICS,2,1449.09,,09/21/2024,East ,N/A
+875,Patel Brown  ,iPhone 14,hardware,1,316.63,1297.96,2024-06-13,North,Completed
+876,John Smith,Monitor?,hardware,2,1114.93,941.92,2024/08/28,East ,Active
+877,Alice Smith  ,Keyboard,Electronics,1,824.55,3132.77,2024-06-29,East ,completed
+878,Sarah Wilson ,iPhone 14,Hardware ,1,1327.87,34.03,02-04-2024,East ,
+879,Alice Smith ,Laptop,electronics,1.0,835.45,,04-25-2024,South,Completed
+880,Mary Johnson,Monitor,electronics,1,806.49,1602.14,2024/02/11,West,N/A
+881,Alice Smith ,Mouse,Hardware ,,301.23,nan,2024-05-01,EAST,Active
+882,Mary Smith,Keyboard,electronics,-1,257.68,nan,03/04/2024,South,
+883,John Smith ,iPhone 14,Electronics,1,1375.57,0,06-20-2024,West,Completed
+884,Bob Smith  ,Laptop,Electronics,3.00,,nan,04-26-2024,EAST,Completed
+885,Bob Wilson ,Mouse,Hardware ,1,564.40,,2024/02/05,North,Completed
+886,Mary Johnson  ,iPhone 14,electronics,2,1142.14,0,2024-08-21,EAST,Completed
+887,Sarah Johnson ,iPhone 14,Electronics,3,514.85,0,2024/01/09,EAST,
+888,Sarah Johnson  ,Mouse,Electronics,0,1428.57,0,08-09-2024,EAST,completed
+889,Mary Johnson,Laptop?,ELECTRONICS,2,1109.51,0,06-15-2024,west,N/A
+890,Mary Wilson  ,Laptop,ELECTRONICS,3,900.17,0,2024/06/16,North,N/A
+891,John Brown,Monitor,Electronics,1,,,2024/10/22,South,Active
+892,Bob Brown ,Keyboard,Hardware ,,83.91,898.2100822588734,10-01-2024,South,Pending
+893,Patel Smith,Mouse,hardware,1.00,393.02,1722.21,09-07-2024,West,completed
+894,Sarah Smith  ,Mouse,hardware,2,702.90,1120.64,2024/07/02,South,Active
+895,John Johnson  ?,Mouse,Electronics,2,348.20,,2024-08-07,East ,Active
+896,Alice Johnson ,Laptop,Electronics,2,1118.42,,2024/07/28,EAST,Completed
+897,Alice Wilson ,Keyboard,Electronics,1,1379.62,nan,2023-12-29,South,Pending
+898,Sarah Brown,Monitor,Hardware ,0,641.42,0,2024/10/18,West,Pending
+899,Patel Wilson,iPhone 14,ELECTRONICS,,519.7775741667235,0,02-01-2024,West,completed
+900,Alice Johnson ,iPhone 14,Electronics,2,1442.7105908849737,nan,03/27/2024,East ,Pending
+901,Sarah Johnson,Mouse***,Electronics,1,672.83,1991.17,05/21/2024,West,Active
+902,Patel Smith ,Keyboard,electronics,1,738.68,nan,11/25/2024,west,Pending
+903,Alice Johnson,Laptop,Hardware ,2,533.96,156.83,08-31-2024,EAST,Pending
+904,Sarah Brown***,Keyboard,Electronics,2,1365.23,0,04-01-2024,EAST,N/A
+905,Mary Wilson,Keyboard,electronics,1,857.7436700899576,3198.78,09-15-2024,EAST,Active
+906,Alice Davis ,Laptop,hardware,1,1145.64,1237.38,2024-04-07,North,
+907,John Davis,Mouse,Electronics,2,1219.59,1286.97,04/14/2024,South,Pending
+908,Patel Johnson,Keyboard,Electronics,3,519.36,nan,2023/12/20,west,Pending
+909,Patel Wilson,iPhone 14,electronics,3,656.20,286.23,12-30-2023,South,Completed
+910,Bob Davis  ,Laptop,Hardware ,1,1274.22,0.0,10-16-2024,west,Pending
+911,Bob Brown,Monitor,Electronics,1,551.25,1061.38,2024-03-12,South,Pending
+912,Alice Johnson,Mouse,hardware,1,1192.96,,2024-03-10,East ,N/A
+913,Sarah Johnson ,Laptop,Electronics,1,1412.08,3482.04,04/25/2024,West,Active
+914,Patel Davis,Monitor,hardware,2,938.58,nan,2024-08-22,West,completed
+915,John Brown ,Monitor,ELECTRONICS,,1115.02,2486.19,2024/09/09,East ,Active
+916,Patel Wilson,Keyboard,ELECTRONICS,1,1209.59,1941.68,2024-03-18,west,Completed
+917,Mary Brown,Keyboard,hardware,1,1269.11,0,03-15-2024,North,Active
+918,Patel Davis ,Keyboard,Hardware ,1,598.63,287.16,05/04/2024,west,Pending
+919,Bob Smith  ***,Laptop,Electronics,3,86.38,1538.00,06-12-2024,West,Completed
+920,Alice Smith,Laptop,Electronics,,608.80,,03-11-2024,North,Active
+921,Sarah Davis,Mouse,ELECTRONICS,1,1013.90,4328.10,2023/12/25,South,Completed
+922,Mary Davis ,Keyboard,hardware,1,681.02,3638.46,2024/03/13,North,completed
+923,Alice Davis ,Monitor,Electronics,3,1125.96,,10-05-2024,west,Active
+924,Alice Wilson ,iPhone 14,Electronics,0,541.90,686.34,02-23-2024,East ,
+925,Alice Wilson ,Mouse,Hardware ,2,955.77,0.0,2024/05/17,South,Pending
+926,Alice Johnson ,Laptop,electronics,1,287.77,0,04/01/2024,west,Completed
+927,John Brown ,Mouse,ELECTRONICS,1,1126.56,nan,2024/01/03,South,
+928,John Wilson,Mouse,ELECTRONICS,2,823.09,0,06/24/2024,North,
+929,Mary Davis,Mouse,electronics,1,314.06,4248.67,10/29/2024,West,N/A
+930,Mary Wilson ***,Mouse,Electronics,1,444.95,nan,11/30/2024,west,Completed
+931,Mary Johnson ,iPhone 14,Hardware ,2,1125.43,,2024/01/18,East ,
+932,Alice Johnson ,Keyboard,Hardware ,1,729.08,2816.57,08/29/2024,North,N/A
+933,Patel Brown,Monitor,ELECTRONICS,3,331.89,529.84,04/28/2024,west,
+934,Mary Davis ,Mouse,Hardware ,1,1451.23,357.47,2024-03-06,East ,Pending
+935,Alice Brown ,Mouse,electronics,1,1075.54,2578.74,12-17-2023,west,completed
+936,Bob Johnson  ,Mouse,Electronics,2,1436.13,,2024-02-02,North,N/A
+937,Bob Smith ,Keyboard,electronics,1,646.39,,2024/11/06,west,completed
+938,Patel Johnson,Laptop,hardware,nan,717.90,nan,2023/12/07,South,Completed
+939,Alice Johnson ,Laptop,ELECTRONICS,2,1347.95,2043.93,2023-12-27,North,Pending
+940,Alice Johnson  ,iPhone 14,Hardware ,1,792.32,120.37,2023-12-14,west,N/A
+941,Bob Davis  ,Laptop,hardware,3,1063.8455787394441,1489.32,2024-05-06,West,Completed
+942,Sarah Davis  ,Mouse,Hardware ,1,385.74,nan,2024/10/29,west,
+943,John Wilson ,Mouse,Electronics,0,675.62,0,2024-06-19,South,Active
+944,Bob Smith,Mouse,Electronics,1,193.94,0,08-11-2024,East ,Completed
+945,Alice Johnson  ,iPhone 14,Electronics,,316.91,926.84,05/08/2024,East ,completed
+946,Sarah Smith  ,Mouse,Hardware ,,11.41,138.82,07-11-2024,East ,Pending
+947,Patel Smith  ,Laptop,hardware,2,68.50,12.13,2024/01/19,West,Pending
+948,John Wilson  ,Keyboard,Electronics,3,1466.15,nan,2024-11-26,South,Completed
+949,Mary Brown  ,Keyboard,hardware,3,371.11,,2024/03/26,North,
+950,Bob Davis,Monitor,Hardware ,1,998.33,1725.4992531776281,12/22/2023,East ,Active
+951,John Wilson ,Laptop,hardware,1,1260.26,1498.82,07/12/2024,South,completed
+952,Alice Davis ,Mouse,Hardware ,3,830.48,874.80,2024-01-26,west,Completed
+953,Patel Johnson ,Keyboard,Hardware ,0,238.19,nan,01-13-2024,West,Completed
+954,Patel Johnson  ,Laptop,ELECTRONICS,1,1094.89,,12/06/2023,South,Pending
+955,Bob Johnson ,Keyboard,Hardware ,2,904.37,0,2024-08-02,South,completed
+956,Alice Smith  ,Mouse,Hardware ,1,1099.56,869.86,01-01-2024,North,Active
+957,John Davis  ,Keyboard,electronics,3,1156.92,nan,2024/09/25,South,Pending
+958,Alice Brown,Monitor,Electronics,1,1463.36,1359.58,2024/11/06,North,Completed
+959,Alice Smith,Monitor,ELECTRONICS,1,864.61,nan,09/05/2024,West,Pending
+960,John Wilson,Keyboard,ELECTRONICS,3,519.05,0.0,2023/12/09,West,Pending
+961,Alice Smith ,Laptop,ELECTRONICS,1,,3969.40,06/21/2024,west,N/A
+962,Patel Davis  ,Laptop,electronics,,111.98,1497.30,09-23-2024,North,Pending
+963,Bob Wilson ,Laptop,Hardware ,2,1347.1220042991636,534.40,2024-07-04,North,
+964,Bob Smith  ,Keyboard,Electronics,1,187.88,2612.67,2024/02/12,East ,Pending
+965,John Wilson,Laptop,hardware,1,498.49,1915.59,2024/08/08,East ,
+966,Alice Wilson,Mouse,Hardware ,2,1225.46,nan,08-23-2024,west,completed
+967,Patel Davis,Monitor,electronics,1,900.00,,04/23/2024,West,Pending
+968,Alice Johnson,Mouse,Hardware ,2,596.52,876.0279307336616,2024-09-20,EAST,Active
+969,Sarah Johnson  ,Laptop,Hardware ,3,715.42,2215.65,09-20-2024,East ,
+970,John Davis  ,Mouse,electronics,3,1283.28,0,2024-05-26,South,
+971,Alice Johnson,Laptop,ELECTRONICS,1,516.61,nan,11/10/2024,West,Completed
+972,Bob Smith ,Keyboard,ELECTRONICS,1,1305.78,91.57,02-07-2024,EAST,completed
+973,Patel Davis  ,Mouse,Electronics,1,141.32,538.97,2024/09/25,South,Pending
+974,Bob Brown ,Keyboard,Electronics,1,1167.43,nan,01/15/2024,North,Active
+975,Bob Smith ,Keyboard,ELECTRONICS,2,1272.85,nan,2024-08-19,West,Completed
+976,John Brown ,iPhone 14,hardware,2,280.91,480.74,10/03/2024,west,completed
+977,Sarah Wilson,Laptop,Hardware ,1,651.22,0,01-08-2024,North,
+978,Mary Wilson ,Monitor,hardware,1,256.59,0,2024/07/04,North,Active
+979,Bob Johnson  ,Laptop,Hardware ,1,1062.84,nan,06/18/2024,South,Pending
+980,Patel Brown  ,Monitor,ELECTRONICS,2,807.67,0,06-18-2024,North,N/A
+981,Sarah Johnson ,Laptop,Electronics,1,956.63,2554.73,01-03-2024,East ,N/A
+982,John Johnson  ,Keyboard,Electronics,2,302.77,0,2024-07-05,West,completed
+983,Bob Smith ,Mouse,hardware,1,325.50,,2024-08-02,East ,Active
+984,Patel Johnson,Mouse,Electronics,3,71.83,,08/05/2024,South,Completed
+985,Alice Wilson ,iPhone 14,ELECTRONICS,,489.88,nan,03/15/2024,EAST,Active
+986,Sarah Davis ?,Monitor,hardware,1,844.02,482.20,01/02/2024,South,
+987,Alice Johnson  ,Monitor,Hardware ,1,1288.32,,2023/12/22,West,N/A
+988,Mary Wilson  ,Monitor,Electronics,2.0,1003.72,nan,2024-08-11,North,completed
+989,Mary Davis,Keyboard,electronics,1,658.74,4328.40,2024-07-20,west,Pending
+990,John Davis ,Monitor,Electronics,2,1430.15,nan,2024/09/22,South,Active
+991,Sarah Davis ,Mouse,Hardware ,3,1081.68,,2023/12/07,West,N/A
+992,Sarah Johnson  ,Keyboard,hardware,2,1395.95,nan,2023-12-31,west,Completed
+993,John Johnson ,Laptop,Hardware ,3,796.11,285.23,06-10-2024,North,completed
+994,Patel Johnson,Monitor,electronics,1,395.77,349.42,11/23/2024,EAST,Pending
+995,Sarah Johnson,Monitor,ELECTRONICS,1,88.71,336.89,2023-12-27,South,Active
+996,Mary Smith ,Laptop,Electronics,3,1091.87,nan,2024-02-27,EAST,Completed
+997,Mary Smith,Monitor,hardware,1,190.74,,2024/11/22,West,Pending
+998,Alice Brown ,Laptop,ELECTRONICS,2,461.13,2403.08,03/24/2024,EAST,
+999,John Wilson  ,Keyboard,Hardware ,1,803.38,,03-01-2024,EAST,N/A
+1000,John Smith ,Mouse,hardware,1,850.9807157918241,,2024/11/02,West,
